@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Si utiliza este snapshot, cite el repositorio y el timestamp de observación."
+title: "gentle-ai review: estado comunitario independiente"
+type: dataset
+authors:
+  - family-names: "JNZader"
+license: MIT
+repository-code: "https://github.com/JNZader/gentle-ai-review"
+url: "https://jnzader.github.io/gentle-ai-review/"
+version: "2026.08.10"
+date-released: 2026-08-10
+keywords:
+  - gentle-ai
+  - release-readiness
+  - community-review
