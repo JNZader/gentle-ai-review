@@ -77,12 +77,19 @@ npm run daily:render
 ```
 
 El origen API y los dos paths canónicos de GitHub (nombre y repository ID) están
-hardcodeados y validados. Redirects y hosts inesperados se rechazan; un error de paginación, rate limit, JSON o esquema aborta antes de
+hardcodeados y validados. Cada request vence a los 30 segundos. Redirects y hosts inesperados se rechazan; un error de paginación, rate limit, JSON o esquema aborta antes de
 publicar un snapshot parcial. Para evitar el rate limit anónimo, el workflow
 expone `github.token` como `GITHUB_TOKEN` al GET público; localmente sigue siendo
 opcional. El token conserva únicamente `contents: write` sobre este repositorio
 para guardar un snapshot cuando existen cambios observables. Nunca escribe
 upstream.
+
+El primer cambio de cada fecha se conserva como `data/daily/YYYY-MM-DD.json`.
+Si esa ruta canónica ya existe —incluso durante un backfill o si falta
+`latest.json`— se agrega un archivo con timestamp UTC
+(`YYYY-MM-DDTHH-mm-ssZ.json`) sin reemplazarla; `data/latest.json`
+siempre representa la observación más reciente. La historia pública continúa
+usando un registro canónico por fecha y la página diaria consume `latest.json`.
 
 `data/current-state.json` continúa siendo el snapshot editorial: el refresh
 automático escribe exclusivamente `data/daily/`, `data/latest.json` y sus copias

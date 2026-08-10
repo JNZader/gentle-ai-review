@@ -67,7 +67,7 @@ async function fetchJsonArray(initialUrl) {
     if (++pages > 100) throw new Error(`Pagination exceeded safety limit for ${initialUrl}`);
     let response = null;
     for (let attempt = 1; attempt <= 4; attempt += 1) {
-      response = await fetch(url, { method: "GET", redirect: "manual", headers: {
+      response = await fetch(url, { method: "GET", redirect: "manual", signal: AbortSignal.timeout(30_000), headers: {
         Accept: "application/vnd.github+json", "X-GitHub-Api-Version": "2022-11-28", "User-Agent": "gentle-ai-review-read-only-refresh/1",
         ...(process.env.GITHUB_TOKEN ? { Authorization: `Bearer ${process.env.GITHUB_TOKEN}` } : {})
       }});
@@ -188,6 +188,22 @@ async function atomicJson(target, value) {
   await rename(temporary, target);
 }
 
+async function fileExists(target) {
+  try { await readFile(target); return true; }
+  catch (error) { if (error.code === "ENOENT") return false; throw error; }
+}
+
+async function dailySnapshotTarget() {
+  const dailyDir = path.join(outputDir, "daily");
+  const canonical = path.join(dailyDir, `${date}.json`);
+  if (!(await fileExists(canonical))) return canonical;
+  const timestamp = observedAt.replaceAll(":", "-");
+  let candidate = path.join(dailyDir, `${timestamp}.json`);
+  let sequence = 2;
+  while (await fileExists(candidate)) candidate = path.join(dailyDir, `${timestamp}-${sequence++}.json`);
+  return candidate;
+}
+
 const observedAt = args["observed-at"] || new Date().toISOString().replace(/\.\d{3}Z$/, "Z");
 if (!/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z$/.test(observedAt)) throw new Error("observed-at must be UTC ISO seconds");
 const date = args.date || observedAt.slice(0, 10);
@@ -214,7 +230,7 @@ const snapshot = {
 validatePrevious(snapshot);
 
 if (changed) {
-  await atomicJson(path.join(outputDir, "daily", `${date}.json`), snapshot);
+  await atomicJson(await dailySnapshotTarget(), snapshot);
   await atomicJson(path.join(outputDir, "latest.json"), snapshot);
 }
 const result = { changed, date, observed_at: observedAt, counts: snapshot.counts, change_counts: Object.fromEntries(Object.entries(changes).map(([key, value]) => [key, { new: value.new.length, updated: value.updated.length, closed_or_no_longer_open: value.closed_or_no_longer_open.length }])) };

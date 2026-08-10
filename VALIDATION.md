@@ -49,6 +49,11 @@ vivo upstream.
   diff;
 - las escrituras son atómicas y ocurren solo después de validar todas las
   páginas;
+- cada request tiene timeout de 30 segundos y el job completo vence a los 15
+  minutos;
+- cualquier observación cuya ruta canónica `YYYY-MM-DD.json` ya exista la
+  conserva, incluso sin `latest.json` o con un latest de otra fecha, agrega otro
+  archivo con timestamp UTC y actualiza `latest.json`;
 - `data/current-state.json` no forma parte de las rutas de escritura del job;
 - el workflow expone `github.token` para GET autenticados, manteniendo solo
   `contents: write` sobre este repositorio;
@@ -81,6 +86,10 @@ git diff --check
 - el fixture produjo, para issues/PR/releases/tags, `1 new + 1 updated + 1
   closed_or_no_longer_open`; una segunda ejecución idéntica produjo cero
   escrituras;
+- una segunda ejecución con cambios en la misma fecha preservó el primer archivo
+  diario, agregó el snapshot timestamped y dejó ese estado en `latest.json`;
+- los casos con archivo canónico existente y `latest.json` ausente o de otra
+  fecha también preservaron el canónico y escribieron un snapshot timestamped;
 - el fixture rechazó tanto un snapshot previo con `draft:"false"` como una
   respuesta API con ese boolean mal tipado, sin escribir salida parcial;
 - el baseline read-only inicial quedó observado `2026-08-10T04:51:42Z` con
