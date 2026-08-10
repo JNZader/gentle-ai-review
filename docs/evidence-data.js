@@ -1,8 +1,7 @@
 /* Contenido público curado. Snapshot: release 03:56:19Z; tracker 03:54:26Z. */
 (() => {
-  const repo = "https://github.com/JNZader/gentle-ai-review/blob/main/reports/";
   const upstream = "https://github.com/Gentleman-Programming/gentle-ai";
-  const report = (file, label) => ({ file: `${repo}${file}`, label, section: "" });
+  const report = (file, label) => ({ file: `report-viewer.html#doc=${file.replace(/\.md$/, "")}`, label, section: "" });
   const source = (file, label) => ({ file, label, section: "" });
   const make = (id, title, category, status, deck, slide, summary, found, why, evidence, action, stop, sources, related=[]) => ({id,title,category,status,confidence:"alta",deck,slide,summary,found,why,evidence,action,stop,sources,related});
 

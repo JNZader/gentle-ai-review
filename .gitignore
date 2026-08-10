@@ -5,3 +5,4 @@ Thumbs.db
 *.log
 .vscode/
 .idea/
+.daily-refresh-result.json

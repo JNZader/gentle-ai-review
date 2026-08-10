@@ -18,6 +18,28 @@ Gracias por mejorar una revisión comunitaria orientada a evidencia.
 - Actualización curada de `data/current-state.json`.
 - Clarificación de límites, decisiones o stop conditions.
 
+## Reportes servibles
+
+Edite únicamente `reports/*.md`. Después ejecute:
+
+```sh
+npm run reports:sync
+npm run reports:check
+```
+
+No edite `docs/reports/` manualmente: es una copia verificable para GitHub
+Pages. Un nuevo reporte requiere una entrada allowlisted en
+`data/report-catalog.json`.
+
+## Refresh diario
+
+- Pruebe cambios con `npm run daily:test`; el fixture no usa la red.
+- No agregue endpoints configurables, métodos distintos de GET ni hosts/paths
+  fuera de la allowlist canónica hardcodeada para upstream.
+- No persista bodies, comentarios, emails, autores ni tokens.
+- No reemplace `data/current-state.json` desde automatización.
+- Un snapshot incompleto debe fallar cerrado, no publicarse parcialmente.
+
 ## Checklist
 
 - [ ] Links públicos funcionan.
@@ -25,3 +47,5 @@ Gracias por mejorar una revisión comunitaria orientada a evidencia.
 - [ ] El cambio no implica afiliación ni autoridad oficial.
 - [ ] La evidencia incluye timestamp y boundary.
 - [ ] JavaScript funciona sin dependencias externas.
+- [ ] `npm run reports:check` y `npm run daily:test` pasan.
+- [ ] El cambio no añade una ruta de escritura hacia upstream.

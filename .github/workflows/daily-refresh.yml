@@ -1,0 +1,57 @@
+name: Daily upstream refresh
+
+on:
+  schedule:
+    - cron: "17 04 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-upstream-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out this repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Use Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Verify local parsers and fixtures
+        run: |
+          node --check scripts/refresh-upstream.mjs
+          node --check scripts/render-daily-page.mjs
+          node scripts/test-daily-fixture.mjs
+          node scripts/sync-reports.mjs --check
+
+      - name: Read public upstream state
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node scripts/refresh-upstream.mjs --result-file .daily-refresh-result.json
+
+      - name: Render public daily data
+        run: node scripts/render-daily-page.mjs
+
+      - name: Commit changed snapshots in this repository only
+        shell: bash
+        run: |
+          rm -f .daily-refresh-result.json
+          git add data/daily data/latest.json docs/data/latest.json docs/data/history.json
+          if git diff --cached --quiet; then
+            echo "No observable upstream changes; nothing to commit."
+            exit 0
+          fi
+          snapshot_date="$(node -p "require('./data/latest.json').date")"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(data): refresh upstream snapshot ${snapshot_date}"
+          git push origin HEAD

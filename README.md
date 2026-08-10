@@ -22,6 +22,8 @@ El sitio estático vive en [`docs/`](docs/) y no necesita build:
 - [Briefing](docs/briefing.html)
 - [Programa de remediación](docs/remediation.html)
 - [Biblioteca de evidencia](docs/evidence-library.html)
+- [Visor local de reportes](docs/report-viewer.html#doc=executive-summary)
+- [Refresh diario read-only](docs/daily.html)
 - [Alcance](docs/about.html)
 
 Para servirlo localmente:
@@ -44,6 +46,47 @@ python3 -m http.server 8000 --directory docs
 Datos curados: [`data/current-state.json`](data/current-state.json).
 
 Controles ejecutados sobre este paquete: [VALIDATION.md](VALIDATION.md).
+
+### Visor Markdown
+
+Los ocho reportes canónicos permanecen en `reports/`. El sitio sirve copias
+idénticas desde `docs/reports/`; nunca las edite directamente.
+
+```sh
+npm run reports:sync   # copia desde reports/ y actualiza el catálogo público
+npm run reports:check  # falla si alguna copia o catálogo diverge
+```
+
+El visor usa una allowlist de slugs y un parser local que escapa HTML y vuelve a
+sanitizar el árbol generado. No descarga Markdown arbitrario ni usa CDN.
+
+## Refresh diario read-only
+
+[`daily-refresh.yml`](.github/workflows/daily-refresh.yml) consulta una vez por
+día la API pública de `Gentleman-Programming/gentle-ai`. Solo lee issues/PR
+abiertos, releases y tags; guarda metadatos compactos sin bodies, comentarios ni
+datos personales innecesarios.
+
+```sh
+# Prueba determinista, sin red
+npm run daily:test
+
+# Refresh público local; no necesita gh CLI
+npm run daily:refresh
+npm run daily:render
+```
+
+El origen API y los dos paths canónicos de GitHub (nombre y repository ID) están
+hardcodeados y validados. Redirects y hosts inesperados se rechazan; un error de paginación, rate limit, JSON o esquema aborta antes de
+publicar un snapshot parcial. Para evitar el rate limit anónimo, el workflow
+expone `github.token` como `GITHUB_TOKEN` al GET público; localmente sigue siendo
+opcional. El token conserva únicamente `contents: write` sobre este repositorio
+para guardar un snapshot cuando existen cambios observables. Nunca escribe
+upstream.
+
+`data/current-state.json` continúa siendo el snapshot editorial: el refresh
+automático escribe exclusivamente `data/daily/`, `data/latest.json` y sus copias
+servidas bajo `docs/data/`.
 
 ## Vigencia
 

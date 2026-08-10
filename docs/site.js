@@ -56,7 +56,8 @@
     const list = values => `<ul>${(values || []).map(v => `<li>${escapeHtml(v)}</li>`).join("")}</ul>`;
     const sources = item.sources.map(source => {
       const label = sourceTitle(source);
-      return `<a href="${escapeHtml(source.file)}" data-source-path="${escapeHtml(source.file)}" target="_blank" rel="noopener" aria-label="Abrir ${escapeHtml(label)}">${escapeHtml(label)}</a>`;
+      const external = /^https:\/\//.test(source.file);
+      return `<a href="${escapeHtml(source.file)}" data-source-path="${escapeHtml(source.file)}"${external ? ' target="_blank" rel="noopener"' : ""} aria-label="Abrir ${escapeHtml(label)}">${escapeHtml(label)}</a>`;
     }).join("");
     const related = (item.related || []).filter(id => byId.has(id)).map(id => `<button type="button" class="related-button" data-open-related="${escapeHtml(id)}">${escapeHtml(byId.get(id).title)}</button>`).join("");
     const backlink = `${deckFile(item.deck)}${detailHash(item.slide,item.id)}`;

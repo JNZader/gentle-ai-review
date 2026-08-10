@@ -1,0 +1,13 @@
+{
+  "name": "gentle-ai-review",
+  "private": true,
+  "version": "2026.8.10",
+  "type": "module",
+  "scripts": {
+    "reports:sync": "node scripts/sync-reports.mjs",
+    "reports:check": "node scripts/sync-reports.mjs --check",
+    "daily:test": "node scripts/test-daily-fixture.mjs",
+    "daily:refresh": "node scripts/refresh-upstream.mjs",
+    "daily:render": "node scripts/render-daily-page.mjs"
+  }
+}

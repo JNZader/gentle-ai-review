@@ -1,0 +1,14 @@
+{
+  "schema": "gentle-ai-review.report-catalog/v1",
+  "snapshot_notice": "Los reportes son cortes editoriales. Upstream vivo prevalece.",
+  "reports": [
+    {"slug":"executive-summary","file":"executive-summary.md","title":"Resumen ejecutivo","snapshot":"Release 2026-08-10T03:56:19Z · tracker 2026-08-10T03:54:26Z"},
+    {"slug":"release-readiness","file":"release-readiness.md","title":"Preparación de release","snapshot":"Release 2026-08-10T03:56:19Z"},
+    {"slug":"issue-strategy","file":"issue-strategy.md","title":"Estrategia de issues","snapshot":"Tracker 2026-08-10T03:54:26Z"},
+    {"slug":"pull-request-strategy","file":"pull-request-strategy.md","title":"Estrategia de pull requests","snapshot":"Tracker 2026-08-10T03:54:26Z"},
+    {"slug":"remediation-waves","file":"remediation-waves.md","title":"Remediación por olas","snapshot":"Plan basado en los cortes del 2026-08-10"},
+    {"slug":"decision-register","file":"decision-register.md","title":"Registro de decisiones","snapshot":"Propuesta editorial del 2026-08-10"},
+    {"slug":"methodology","file":"methodology.md","title":"Método y alcance","snapshot":"Boundaries observados el 2026-08-10"},
+    {"slug":"limitations","file":"limitations.md","title":"Limitaciones y vigencia","snapshot":"Boundaries observados el 2026-08-10"}
+  ]
+}

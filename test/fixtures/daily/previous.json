@@ -1,0 +1,33 @@
+{
+  "schema":"gentle-ai-review.daily-snapshot/v1",
+  "repository":"Gentleman-Programming/gentle-ai",
+  "observed_at":"2026-08-10T00:00:00Z",
+  "date":"2026-08-10",
+  "baseline":false,
+  "source":{"api_origin":"https://api.github.com","mode":"fixture","read_only":true},
+  "counts":{"open_issues":2,"open_pull_requests":2},
+  "changes":{
+    "issues":{"new":[],"updated":[],"closed_or_no_longer_open":[]},
+    "pull_requests":{"new":[],"updated":[],"closed_or_no_longer_open":[]},
+    "releases":{"new":[],"updated":[],"closed_or_no_longer_open":[]},
+    "tags":{"new":[],"updated":[],"closed_or_no_longer_open":[]}
+  },
+  "releases_recent":[],
+  "tags_recent":[],
+  "open_issues":[
+    {"number":1,"updated_at":"2026-08-10T01:00:00Z","url":"https://github.com/Gentleman-Programming/gentle-ai/issues/1"},
+    {"number":2,"updated_at":"2026-08-10T02:00:00Z","url":"https://github.com/Gentleman-Programming/gentle-ai/issues/2"}
+  ],
+  "open_pull_requests":[
+    {"number":10,"updated_at":"2026-08-10T03:00:00Z","head_sha":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa","base_ref":"main","draft":false,"url":"https://github.com/Gentleman-Programming/gentle-ai/pull/10"},
+    {"number":12,"updated_at":"2026-08-10T03:30:00Z","head_sha":"dddddddddddddddddddddddddddddddddddddddd","base_ref":"main","draft":false,"url":"https://github.com/Gentleman-Programming/gentle-ai/pull/12"}
+  ],
+  "releases":[
+    {"id":100,"tag":"v2.4.0-rc.3","name":"RC3","draft":false,"prerelease":true,"published_at":"2026-08-10T03:00:00Z","target":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa","url":"https://github.com/Gentleman-Programming/gentle-ai/releases/tag/v2.4.0-rc.3"},
+    {"id":99,"tag":"v2.4.0-rc.2","name":"RC2","draft":false,"prerelease":true,"published_at":"2026-08-09T03:00:00Z","target":"eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee","url":"https://github.com/Gentleman-Programming/gentle-ai/releases/tag/v2.4.0-rc.2"}
+  ],
+  "tags":[
+    {"name":"v2.4.0-rc.2","sha":"eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"},
+    {"name":"v2.4.0-rc.3","sha":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"}
+  ]
+}
