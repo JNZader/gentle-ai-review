@@ -1,8 +1,8 @@
 {
   "schema": "gentle-ai-review.daily-snapshot/v1",
   "repository": "Gentleman-Programming/gentle-ai",
-  "observed_at": "2026-08-14T04:55:24Z",
-  "date": "2026-08-14",
+  "observed_at": "2026-08-15T04:27:11Z",
+  "date": "2026-08-15",
   "baseline": false,
   "source": {
     "api_origin": "https://api.github.com",
@@ -10,1088 +10,1578 @@
     "read_only": true
   },
   "counts": {
-    "open_issues": 583,
-    "open_pull_requests": 166
+    "open_issues": 600,
+    "open_pull_requests": 152
   },
   "changes": {
     "issues": {
       "new": [
+        {
+          "number": 1677,
+          "updated_at": "2026-08-14T05:59:18Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1677"
+        },
+        {
+          "number": 3219,
+          "updated_at": "2026-08-14T22:26:35Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3219"
+        },
+        {
+          "number": 3220,
+          "updated_at": "2026-08-14T05:47:55Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3220"
+        },
+        {
+          "number": 3222,
+          "updated_at": "2026-08-14T06:13:39Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3222"
+        },
+        {
+          "number": 3224,
+          "updated_at": "2026-08-14T07:16:41Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3224"
+        },
+        {
+          "number": 3226,
+          "updated_at": "2026-08-14T08:52:36Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3226"
+        },
+        {
+          "number": 3233,
+          "updated_at": "2026-08-14T12:16:50Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3233"
+        },
+        {
+          "number": 3239,
+          "updated_at": "2026-08-14T19:33:05Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3239"
+        },
+        {
+          "number": 3240,
+          "updated_at": "2026-08-14T18:33:28Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3240"
+        },
+        {
+          "number": 3244,
+          "updated_at": "2026-08-14T15:56:33Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3244"
+        },
+        {
+          "number": 3245,
+          "updated_at": "2026-08-14T14:36:43Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3245"
+        },
+        {
+          "number": 3246,
+          "updated_at": "2026-08-14T21:10:28Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3246"
+        },
+        {
+          "number": 3248,
+          "updated_at": "2026-08-14T14:59:43Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3248"
+        },
+        {
+          "number": 3250,
+          "updated_at": "2026-08-14T15:10:17Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3250"
+        },
+        {
+          "number": 3251,
+          "updated_at": "2026-08-14T17:50:13Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3251"
+        },
+        {
+          "number": 3252,
+          "updated_at": "2026-08-14T18:32:13Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3252"
+        },
+        {
+          "number": 3253,
+          "updated_at": "2026-08-14T17:08:42Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3253"
+        },
+        {
+          "number": 3255,
+          "updated_at": "2026-08-14T17:39:36Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3255"
+        },
+        {
+          "number": 3256,
+          "updated_at": "2026-08-14T17:49:17Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3256"
+        },
+        {
+          "number": 3257,
+          "updated_at": "2026-08-14T17:49:19Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3257"
+        },
+        {
+          "number": 3258,
+          "updated_at": "2026-08-14T17:49:21Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3258"
+        },
+        {
+          "number": 3259,
+          "updated_at": "2026-08-15T01:46:31Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3259"
+        },
+        {
+          "number": 3260,
+          "updated_at": "2026-08-14T18:46:08Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3260"
+        },
+        {
+          "number": 3262,
+          "updated_at": "2026-08-14T19:17:43Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3262"
+        },
+        {
+          "number": 3263,
+          "updated_at": "2026-08-14T22:46:06Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3263"
+        },
+        {
+          "number": 3266,
+          "updated_at": "2026-08-14T19:37:11Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3266"
+        },
+        {
+          "number": 3267,
+          "updated_at": "2026-08-14T19:58:48Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3267"
+        },
+        {
+          "number": 3271,
+          "updated_at": "2026-08-14T21:11:36Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3271"
+        },
+        {
+          "number": 3272,
+          "updated_at": "2026-08-14T22:11:30Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3272"
+        },
+        {
+          "number": 3273,
+          "updated_at": "2026-08-15T02:31:46Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3273"
+        },
+        {
+          "number": 3274,
+          "updated_at": "2026-08-15T04:16:18Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3274"
+        },
+        {
+          "number": 3275,
+          "updated_at": "2026-08-14T22:55:54Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3275"
+        },
+        {
+          "number": 3278,
+          "updated_at": "2026-08-15T00:02:32Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3278"
+        },
+        {
+          "number": 3279,
+          "updated_at": "2026-08-15T00:02:55Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3279"
+        },
+        {
+          "number": 3280,
+          "updated_at": "2026-08-15T00:40:44Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3280"
+        },
+        {
+          "number": 3281,
+          "updated_at": "2026-08-15T01:34:23Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3281"
+        },
+        {
+          "number": 3284,
+          "updated_at": "2026-08-15T02:23:00Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3284"
+        },
+        {
+          "number": 3285,
+          "updated_at": "2026-08-15T02:38:22Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3285"
+        }
+      ],
+      "updated": [
+        {
+          "before": {
+            "number": 259,
+            "updated_at": "2026-08-13T04:36:58Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/259"
+          },
+          "after": {
+            "number": 259,
+            "updated_at": "2026-08-15T00:02:12Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/259"
+          }
+        },
+        {
+          "before": {
+            "number": 523,
+            "updated_at": "2026-08-14T00:09:02Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/523"
+          },
+          "after": {
+            "number": 523,
+            "updated_at": "2026-08-14T10:19:58Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/523"
+          }
+        },
+        {
+          "before": {
+            "number": 1212,
+            "updated_at": "2026-08-05T00:47:27Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1212"
+          },
+          "after": {
+            "number": 1212,
+            "updated_at": "2026-08-14T14:55:30Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1212"
+          }
+        },
+        {
+          "before": {
+            "number": 1241,
+            "updated_at": "2026-08-05T18:10:15Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1241"
+          },
+          "after": {
+            "number": 1241,
+            "updated_at": "2026-08-14T17:57:19Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1241"
+          }
+        },
+        {
+          "before": {
+            "number": 1302,
+            "updated_at": "2026-08-11T18:13:01Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1302"
+          },
+          "after": {
+            "number": 1302,
+            "updated_at": "2026-08-14T15:06:31Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1302"
+          }
+        },
+        {
+          "before": {
+            "number": 1529,
+            "updated_at": "2026-08-09T19:48:51Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1529"
+          },
+          "after": {
+            "number": 1529,
+            "updated_at": "2026-08-14T19:33:06Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1529"
+          }
+        },
+        {
+          "before": {
+            "number": 1656,
+            "updated_at": "2026-08-11T17:06:22Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1656"
+          },
+          "after": {
+            "number": 1656,
+            "updated_at": "2026-08-14T21:52:22Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1656"
+          }
+        },
+        {
+          "before": {
+            "number": 1658,
+            "updated_at": "2026-08-12T21:05:07Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1658"
+          },
+          "after": {
+            "number": 1658,
+            "updated_at": "2026-08-15T00:59:22Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1658"
+          }
+        },
+        {
+          "before": {
+            "number": 2029,
+            "updated_at": "2026-08-13T19:45:33Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2029"
+          },
+          "after": {
+            "number": 2029,
+            "updated_at": "2026-08-14T21:19:23Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2029"
+          }
+        },
+        {
+          "before": {
+            "number": 2114,
+            "updated_at": "2026-08-13T20:25:55Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2114"
+          },
+          "after": {
+            "number": 2114,
+            "updated_at": "2026-08-15T03:05:00Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2114"
+          }
+        },
+        {
+          "before": {
+            "number": 2135,
+            "updated_at": "2026-08-14T03:18:53Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2135"
+          },
+          "after": {
+            "number": 2135,
+            "updated_at": "2026-08-14T21:55:55Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2135"
+          }
+        },
+        {
+          "before": {
+            "number": 2208,
+            "updated_at": "2026-08-12T19:29:38Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2208"
+          },
+          "after": {
+            "number": 2208,
+            "updated_at": "2026-08-14T15:12:40Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2208"
+          }
+        },
+        {
+          "before": {
+            "number": 2212,
+            "updated_at": "2026-08-10T23:15:37Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2212"
+          },
+          "after": {
+            "number": 2212,
+            "updated_at": "2026-08-15T00:32:56Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2212"
+          }
+        },
+        {
+          "before": {
+            "number": 2389,
+            "updated_at": "2026-08-14T01:01:37Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2389"
+          },
+          "after": {
+            "number": 2389,
+            "updated_at": "2026-08-14T15:04:02Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2389"
+          }
+        },
+        {
+          "before": {
+            "number": 2411,
+            "updated_at": "2026-08-12T17:42:00Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2411"
+          },
+          "after": {
+            "number": 2411,
+            "updated_at": "2026-08-15T02:44:57Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2411"
+          }
+        },
+        {
+          "before": {
+            "number": 2609,
+            "updated_at": "2026-08-13T22:34:19Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2609"
+          },
+          "after": {
+            "number": 2609,
+            "updated_at": "2026-08-15T04:24:21Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2609"
+          }
+        },
+        {
+          "before": {
+            "number": 2629,
+            "updated_at": "2026-08-13T15:58:24Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2629"
+          },
+          "after": {
+            "number": 2629,
+            "updated_at": "2026-08-14T23:41:15Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2629"
+          }
+        },
+        {
+          "before": {
+            "number": 2644,
+            "updated_at": "2026-08-13T00:45:29Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2644"
+          },
+          "after": {
+            "number": 2644,
+            "updated_at": "2026-08-14T05:59:01Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2644"
+          }
+        },
+        {
+          "before": {
+            "number": 2645,
+            "updated_at": "2026-08-11T00:07:46Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2645"
+          },
+          "after": {
+            "number": 2645,
+            "updated_at": "2026-08-14T13:31:21Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2645"
+          }
+        },
+        {
+          "before": {
+            "number": 2646,
+            "updated_at": "2026-08-13T03:35:10Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2646"
+          },
+          "after": {
+            "number": 2646,
+            "updated_at": "2026-08-14T20:32:17Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2646"
+          }
+        },
+        {
+          "before": {
+            "number": 2687,
+            "updated_at": "2026-08-09T16:43:21Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2687"
+          },
+          "after": {
+            "number": 2687,
+            "updated_at": "2026-08-14T10:29:22Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2687"
+          }
+        },
+        {
+          "before": {
+            "number": 2698,
+            "updated_at": "2026-08-12T01:44:53Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2698"
+          },
+          "after": {
+            "number": 2698,
+            "updated_at": "2026-08-14T12:44:54Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2698"
+          }
+        },
+        {
+          "before": {
+            "number": 2702,
+            "updated_at": "2026-08-12T02:03:27Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2702"
+          },
+          "after": {
+            "number": 2702,
+            "updated_at": "2026-08-14T23:10:11Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2702"
+          }
+        },
+        {
+          "before": {
+            "number": 2710,
+            "updated_at": "2026-08-13T22:08:16Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2710"
+          },
+          "after": {
+            "number": 2710,
+            "updated_at": "2026-08-14T16:52:06Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2710"
+          }
+        },
+        {
+          "before": {
+            "number": 2716,
+            "updated_at": "2026-08-14T00:43:35Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2716"
+          },
+          "after": {
+            "number": 2716,
+            "updated_at": "2026-08-15T01:28:59Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2716"
+          }
+        },
+        {
+          "before": {
+            "number": 2777,
+            "updated_at": "2026-08-13T22:14:18Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2777"
+          },
+          "after": {
+            "number": 2777,
+            "updated_at": "2026-08-14T07:29:35Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2777"
+          }
+        },
+        {
+          "before": {
+            "number": 2790,
+            "updated_at": "2026-08-14T00:58:59Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2790"
+          },
+          "after": {
+            "number": 2790,
+            "updated_at": "2026-08-14T18:30:04Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2790"
+          }
+        },
+        {
+          "before": {
+            "number": 2792,
+            "updated_at": "2026-08-14T02:27:55Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2792"
+          },
+          "after": {
+            "number": 2792,
+            "updated_at": "2026-08-14T21:21:26Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2792"
+          }
+        },
+        {
+          "before": {
+            "number": 2804,
+            "updated_at": "2026-08-13T12:03:27Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2804"
+          },
+          "after": {
+            "number": 2804,
+            "updated_at": "2026-08-14T21:28:48Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2804"
+          }
+        },
+        {
+          "before": {
+            "number": 2823,
+            "updated_at": "2026-08-14T00:08:06Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2823"
+          },
+          "after": {
+            "number": 2823,
+            "updated_at": "2026-08-14T16:22:35Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2823"
+          }
+        },
+        {
+          "before": {
+            "number": 2872,
+            "updated_at": "2026-08-13T17:08:00Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2872"
+          },
+          "after": {
+            "number": 2872,
+            "updated_at": "2026-08-14T21:16:43Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2872"
+          }
+        },
+        {
+          "before": {
+            "number": 2895,
+            "updated_at": "2026-08-10T18:34:25Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2895"
+          },
+          "after": {
+            "number": 2895,
+            "updated_at": "2026-08-14T14:21:36Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2895"
+          }
+        },
+        {
+          "before": {
+            "number": 2896,
+            "updated_at": "2026-08-11T23:37:06Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2896"
+          },
+          "after": {
+            "number": 2896,
+            "updated_at": "2026-08-14T18:26:53Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2896"
+          }
+        },
+        {
+          "before": {
+            "number": 2918,
+            "updated_at": "2026-08-10T08:02:20Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2918"
+          },
+          "after": {
+            "number": 2918,
+            "updated_at": "2026-08-14T18:53:03Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2918"
+          }
+        },
+        {
+          "before": {
+            "number": 2943,
+            "updated_at": "2026-08-13T13:35:59Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2943"
+          },
+          "after": {
+            "number": 2943,
+            "updated_at": "2026-08-14T23:35:07Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2943"
+          }
+        },
+        {
+          "before": {
+            "number": 2946,
+            "updated_at": "2026-08-13T22:02:00Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2946"
+          },
+          "after": {
+            "number": 2946,
+            "updated_at": "2026-08-15T02:09:40Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2946"
+          }
+        },
+        {
+          "before": {
+            "number": 2955,
+            "updated_at": "2026-08-13T17:54:45Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2955"
+          },
+          "after": {
+            "number": 2955,
+            "updated_at": "2026-08-14T14:40:10Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2955"
+          }
+        },
+        {
+          "before": {
+            "number": 2972,
+            "updated_at": "2026-08-12T17:58:27Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2972"
+          },
+          "after": {
+            "number": 2972,
+            "updated_at": "2026-08-14T18:53:18Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2972"
+          }
+        },
+        {
+          "before": {
+            "number": 2981,
+            "updated_at": "2026-08-13T20:20:26Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2981"
+          },
+          "after": {
+            "number": 2981,
+            "updated_at": "2026-08-14T17:35:58Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2981"
+          }
+        },
+        {
+          "before": {
+            "number": 2992,
+            "updated_at": "2026-08-11T18:55:38Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2992"
+          },
+          "after": {
+            "number": 2992,
+            "updated_at": "2026-08-14T20:09:38Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2992"
+          }
+        },
+        {
+          "before": {
+            "number": 2995,
+            "updated_at": "2026-08-13T23:43:46Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2995"
+          },
+          "after": {
+            "number": 2995,
+            "updated_at": "2026-08-15T02:55:47Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2995"
+          }
+        },
+        {
+          "before": {
+            "number": 2997,
+            "updated_at": "2026-08-13T00:02:38Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2997"
+          },
+          "after": {
+            "number": 2997,
+            "updated_at": "2026-08-14T18:07:22Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2997"
+          }
+        },
+        {
+          "before": {
+            "number": 3042,
+            "updated_at": "2026-08-12T13:16:12Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3042"
+          },
+          "after": {
+            "number": 3042,
+            "updated_at": "2026-08-15T01:16:52Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3042"
+          }
+        },
+        {
+          "before": {
+            "number": 3066,
+            "updated_at": "2026-08-14T01:15:04Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3066"
+          },
+          "after": {
+            "number": 3066,
+            "updated_at": "2026-08-15T03:09:10Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3066"
+          }
+        },
+        {
+          "before": {
+            "number": 3073,
+            "updated_at": "2026-08-14T03:58:16Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3073"
+          },
+          "after": {
+            "number": 3073,
+            "updated_at": "2026-08-14T21:48:57Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3073"
+          }
+        },
+        {
+          "before": {
+            "number": 3081,
+            "updated_at": "2026-08-14T00:39:18Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3081"
+          },
+          "after": {
+            "number": 3081,
+            "updated_at": "2026-08-14T19:14:22Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3081"
+          }
+        },
+        {
+          "before": {
+            "number": 3086,
+            "updated_at": "2026-08-13T17:14:30Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3086"
+          },
+          "after": {
+            "number": 3086,
+            "updated_at": "2026-08-15T04:26:10Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3086"
+          }
+        },
+        {
+          "before": {
+            "number": 3092,
+            "updated_at": "2026-08-12T13:33:07Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3092"
+          },
+          "after": {
+            "number": 3092,
+            "updated_at": "2026-08-14T22:51:25Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3092"
+          }
+        },
+        {
+          "before": {
+            "number": 3099,
+            "updated_at": "2026-08-14T04:15:03Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3099"
+          },
+          "after": {
+            "number": 3099,
+            "updated_at": "2026-08-15T00:27:41Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3099"
+          }
+        },
+        {
+          "before": {
+            "number": 3115,
+            "updated_at": "2026-08-13T22:11:04Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3115"
+          },
+          "after": {
+            "number": 3115,
+            "updated_at": "2026-08-15T00:41:00Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3115"
+          }
+        },
+        {
+          "before": {
+            "number": 3119,
+            "updated_at": "2026-08-13T20:15:06Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3119"
+          },
+          "after": {
+            "number": 3119,
+            "updated_at": "2026-08-14T21:18:18Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3119"
+          }
+        },
+        {
+          "before": {
+            "number": 3120,
+            "updated_at": "2026-08-12T13:35:09Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3120"
+          },
+          "after": {
+            "number": 3120,
+            "updated_at": "2026-08-14T22:22:15Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3120"
+          }
+        },
+        {
+          "before": {
+            "number": 3123,
+            "updated_at": "2026-08-13T20:48:30Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3123"
+          },
+          "after": {
+            "number": 3123,
+            "updated_at": "2026-08-14T21:46:38Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3123"
+          }
+        },
+        {
+          "before": {
+            "number": 3129,
+            "updated_at": "2026-08-14T02:37:09Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3129"
+          },
+          "after": {
+            "number": 3129,
+            "updated_at": "2026-08-14T21:23:13Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3129"
+          }
+        },
+        {
+          "before": {
+            "number": 3132,
+            "updated_at": "2026-08-12T17:12:53Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3132"
+          },
+          "after": {
+            "number": 3132,
+            "updated_at": "2026-08-15T02:38:13Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3132"
+          }
+        },
+        {
+          "before": {
+            "number": 3153,
+            "updated_at": "2026-08-13T22:52:14Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3153"
+          },
+          "after": {
+            "number": 3153,
+            "updated_at": "2026-08-14T07:04:42Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3153"
+          }
+        },
+        {
+          "before": {
+            "number": 3154,
+            "updated_at": "2026-08-13T18:33:01Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3154"
+          },
+          "after": {
+            "number": 3154,
+            "updated_at": "2026-08-14T15:42:55Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3154"
+          }
+        },
+        {
+          "before": {
+            "number": 3155,
+            "updated_at": "2026-08-13T02:21:55Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3155"
+          },
+          "after": {
+            "number": 3155,
+            "updated_at": "2026-08-14T18:04:15Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3155"
+          }
+        },
+        {
+          "before": {
+            "number": 3174,
+            "updated_at": "2026-08-13T13:24:57Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3174"
+          },
+          "after": {
+            "number": 3174,
+            "updated_at": "2026-08-14T20:35:43Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3174"
+          }
+        },
+        {
+          "before": {
+            "number": 3183,
+            "updated_at": "2026-08-14T00:19:29Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3183"
+          },
+          "after": {
+            "number": 3183,
+            "updated_at": "2026-08-14T22:32:06Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3183"
+          }
+        },
+        {
+          "before": {
+            "number": 3189,
+            "updated_at": "2026-08-13T17:12:02Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3189"
+          },
+          "after": {
+            "number": 3189,
+            "updated_at": "2026-08-14T21:22:25Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3189"
+          }
+        },
+        {
+          "before": {
+            "number": 3191,
+            "updated_at": "2026-08-13T22:12:45Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3191"
+          },
+          "after": {
+            "number": 3191,
+            "updated_at": "2026-08-14T17:02:47Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3191"
+          }
+        },
+        {
+          "before": {
+            "number": 3194,
+            "updated_at": "2026-08-14T04:00:39Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3194"
+          },
+          "after": {
+            "number": 3194,
+            "updated_at": "2026-08-14T23:26:36Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3194"
+          }
+        },
+        {
+          "before": {
+            "number": 3202,
+            "updated_at": "2026-08-13T21:33:38Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3202"
+          },
+          "after": {
+            "number": 3202,
+            "updated_at": "2026-08-14T07:12:48Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3202"
+          }
+        },
+        {
+          "before": {
+            "number": 3204,
+            "updated_at": "2026-08-13T21:55:22Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3204"
+          },
+          "after": {
+            "number": 3204,
+            "updated_at": "2026-08-15T02:00:06Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3204"
+          }
+        },
+        {
+          "before": {
+            "number": 3213,
+            "updated_at": "2026-08-14T02:18:13Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3213"
+          },
+          "after": {
+            "number": 3213,
+            "updated_at": "2026-08-15T03:57:13Z",
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3213"
+          }
+        }
+      ],
+      "closed_or_no_longer_open": [
+        {
+          "number": 1024,
+          "updated_at": "2026-08-08T19:08:35Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1024"
+        },
         {
           "number": 1096,
           "updated_at": "2026-08-14T00:17:54Z",
           "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1096"
         },
         {
-          "number": 3163,
-          "updated_at": "2026-08-13T06:56:51Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3163"
+          "number": 1222,
+          "updated_at": "2026-08-09T22:20:53Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1222"
         },
         {
-          "number": 3168,
-          "updated_at": "2026-08-13T21:18:54Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3168"
+          "number": 1789,
+          "updated_at": "2026-08-11T16:05:58Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1789"
+        },
+        {
+          "number": 1875,
+          "updated_at": "2026-08-12T17:38:14Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1875"
+        },
+        {
+          "number": 2091,
+          "updated_at": "2026-08-06T19:12:34Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2091"
+        },
+        {
+          "number": 2241,
+          "updated_at": "2026-08-12T15:00:47Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2241"
+        },
+        {
+          "number": 2252,
+          "updated_at": "2026-08-10T18:01:14Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2252"
+        },
+        {
+          "number": 2325,
+          "updated_at": "2026-08-04T23:53:49Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2325"
+        },
+        {
+          "number": 2341,
+          "updated_at": "2026-08-04T23:53:47Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2341"
+        },
+        {
+          "number": 2349,
+          "updated_at": "2026-08-03T16:36:48Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2349"
+        },
+        {
+          "number": 2418,
+          "updated_at": "2026-08-12T19:22:59Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2418"
+        },
+        {
+          "number": 2420,
+          "updated_at": "2026-08-04T09:12:19Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2420"
+        },
+        {
+          "number": 2631,
+          "updated_at": "2026-08-14T03:34:54Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2631"
+        },
+        {
+          "number": 2662,
+          "updated_at": "2026-08-06T20:41:46Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2662"
+        },
+        {
+          "number": 2909,
+          "updated_at": "2026-08-10T04:08:38Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2909"
+        },
+        {
+          "number": 2976,
+          "updated_at": "2026-08-12T16:45:01Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2976"
+        },
+        {
+          "number": 3070,
+          "updated_at": "2026-08-11T21:12:00Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3070"
+        },
+        {
+          "number": 3137,
+          "updated_at": "2026-08-13T22:51:59Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3137"
+        },
+        {
+          "number": 3138,
+          "updated_at": "2026-08-13T19:36:29Z",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3138"
         },
         {
           "number": 3169,
           "updated_at": "2026-08-14T00:23:40Z",
           "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3169"
-        },
-        {
-          "number": 3174,
-          "updated_at": "2026-08-13T13:24:57Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3174"
-        },
-        {
-          "number": 3178,
-          "updated_at": "2026-08-13T14:01:41Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3178"
-        },
-        {
-          "number": 3180,
-          "updated_at": "2026-08-13T14:50:03Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3180"
-        },
-        {
-          "number": 3183,
-          "updated_at": "2026-08-14T00:19:29Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3183"
-        },
-        {
-          "number": 3184,
-          "updated_at": "2026-08-13T15:44:07Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3184"
-        },
-        {
-          "number": 3186,
-          "updated_at": "2026-08-13T16:00:09Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3186"
-        },
-        {
-          "number": 3187,
-          "updated_at": "2026-08-13T22:33:02Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3187"
-        },
-        {
-          "number": 3189,
-          "updated_at": "2026-08-13T17:12:02Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3189"
-        },
-        {
-          "number": 3190,
-          "updated_at": "2026-08-13T17:14:28Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3190"
-        },
-        {
-          "number": 3191,
-          "updated_at": "2026-08-13T22:12:45Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3191"
-        },
-        {
-          "number": 3193,
-          "updated_at": "2026-08-13T18:11:05Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3193"
-        },
-        {
-          "number": 3194,
-          "updated_at": "2026-08-14T04:00:39Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3194"
-        },
-        {
-          "number": 3199,
-          "updated_at": "2026-08-13T21:01:51Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3199"
-        },
-        {
-          "number": 3200,
-          "updated_at": "2026-08-13T21:28:23Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3200"
-        },
-        {
-          "number": 3202,
-          "updated_at": "2026-08-13T21:33:38Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3202"
-        },
-        {
-          "number": 3203,
-          "updated_at": "2026-08-13T21:49:14Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3203"
-        },
-        {
-          "number": 3204,
-          "updated_at": "2026-08-13T21:55:22Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3204"
-        },
-        {
-          "number": 3205,
-          "updated_at": "2026-08-14T03:07:00Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3205"
-        },
-        {
-          "number": 3206,
-          "updated_at": "2026-08-13T23:10:26Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3206"
-        },
-        {
-          "number": 3207,
-          "updated_at": "2026-08-14T00:19:49Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3207"
-        },
-        {
-          "number": 3208,
-          "updated_at": "2026-08-14T00:19:32Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3208"
-        },
-        {
-          "number": 3213,
-          "updated_at": "2026-08-14T02:18:13Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3213"
-        },
-        {
-          "number": 3214,
-          "updated_at": "2026-08-14T02:47:42Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3214"
-        },
-        {
-          "number": 3215,
-          "updated_at": "2026-08-14T03:49:40Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3215"
-        }
-      ],
-      "updated": [
-        {
-          "before": {
-            "number": 523,
-            "updated_at": "2026-08-12T22:13:11Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/523"
-          },
-          "after": {
-            "number": 523,
-            "updated_at": "2026-08-14T00:09:02Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/523"
-          }
-        },
-        {
-          "before": {
-            "number": 620,
-            "updated_at": "2026-07-29T03:45:07Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/620"
-          },
-          "after": {
-            "number": 620,
-            "updated_at": "2026-08-14T00:24:16Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/620"
-          }
-        },
-        {
-          "before": {
-            "number": 1612,
-            "updated_at": "2026-08-09T01:55:34Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1612"
-          },
-          "after": {
-            "number": 1612,
-            "updated_at": "2026-08-13T14:33:11Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1612"
-          }
-        },
-        {
-          "before": {
-            "number": 1867,
-            "updated_at": "2026-08-09T21:35:59Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1867"
-          },
-          "after": {
-            "number": 1867,
-            "updated_at": "2026-08-13T13:21:41Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1867"
-          }
-        },
-        {
-          "before": {
-            "number": 1897,
-            "updated_at": "2026-08-12T17:25:49Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1897"
-          },
-          "after": {
-            "number": 1897,
-            "updated_at": "2026-08-13T19:37:38Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1897"
-          }
-        },
-        {
-          "before": {
-            "number": 1951,
-            "updated_at": "2026-08-08T08:43:03Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1951"
-          },
-          "after": {
-            "number": 1951,
-            "updated_at": "2026-08-13T23:08:20Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1951"
-          }
-        },
-        {
-          "before": {
-            "number": 2029,
-            "updated_at": "2026-08-11T14:01:48Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2029"
-          },
-          "after": {
-            "number": 2029,
-            "updated_at": "2026-08-13T19:45:33Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2029"
-          }
-        },
-        {
-          "before": {
-            "number": 2114,
-            "updated_at": "2026-08-12T22:17:19Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2114"
-          },
-          "after": {
-            "number": 2114,
-            "updated_at": "2026-08-13T20:25:55Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2114"
-          }
-        },
-        {
-          "before": {
-            "number": 2135,
-            "updated_at": "2026-08-13T03:32:06Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2135"
-          },
-          "after": {
-            "number": 2135,
-            "updated_at": "2026-08-14T03:18:53Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2135"
-          }
-        },
-        {
-          "before": {
-            "number": 2196,
-            "updated_at": "2026-08-03T06:50:19Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2196"
-          },
-          "after": {
-            "number": 2196,
-            "updated_at": "2026-08-13T19:29:28Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2196"
-          }
-        },
-        {
-          "before": {
-            "number": 2340,
-            "updated_at": "2026-08-05T21:48:37Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2340"
-          },
-          "after": {
-            "number": 2340,
-            "updated_at": "2026-08-13T17:00:55Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2340"
-          }
-        },
-        {
-          "before": {
-            "number": 2352,
-            "updated_at": "2026-08-03T23:41:27Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2352"
-          },
-          "after": {
-            "number": 2352,
-            "updated_at": "2026-08-13T11:50:44Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2352"
-          }
-        },
-        {
-          "before": {
-            "number": 2389,
-            "updated_at": "2026-08-05T15:37:57Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2389"
-          },
-          "after": {
-            "number": 2389,
-            "updated_at": "2026-08-14T01:01:37Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2389"
-          }
-        },
-        {
-          "before": {
-            "number": 2608,
-            "updated_at": "2026-08-12T17:56:48Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2608"
-          },
-          "after": {
-            "number": 2608,
-            "updated_at": "2026-08-13T07:46:44Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2608"
-          }
-        },
-        {
-          "before": {
-            "number": 2609,
-            "updated_at": "2026-08-13T01:27:53Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2609"
-          },
-          "after": {
-            "number": 2609,
-            "updated_at": "2026-08-13T22:34:19Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2609"
-          }
-        },
-        {
-          "before": {
-            "number": 2612,
-            "updated_at": "2026-08-07T18:16:13Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2612"
-          },
-          "after": {
-            "number": 2612,
-            "updated_at": "2026-08-13T20:41:36Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2612"
-          }
-        },
-        {
-          "before": {
-            "number": 2625,
-            "updated_at": "2026-08-10T20:34:49Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2625"
-          },
-          "after": {
-            "number": 2625,
-            "updated_at": "2026-08-14T02:05:36Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2625"
-          }
-        },
-        {
-          "before": {
-            "number": 2629,
-            "updated_at": "2026-08-12T01:46:00Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2629"
-          },
-          "after": {
-            "number": 2629,
-            "updated_at": "2026-08-13T15:58:24Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2629"
-          }
-        },
-        {
-          "before": {
-            "number": 2631,
-            "updated_at": "2026-08-06T04:57:42Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2631"
-          },
-          "after": {
-            "number": 2631,
-            "updated_at": "2026-08-14T03:34:54Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2631"
-          }
-        },
-        {
-          "before": {
-            "number": 2700,
-            "updated_at": "2026-08-08T19:52:37Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2700"
-          },
-          "after": {
-            "number": 2700,
-            "updated_at": "2026-08-13T18:40:22Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2700"
-          }
-        },
-        {
-          "before": {
-            "number": 2710,
-            "updated_at": "2026-08-12T18:08:29Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2710"
-          },
-          "after": {
-            "number": 2710,
-            "updated_at": "2026-08-13T22:08:16Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2710"
-          }
-        },
-        {
-          "before": {
-            "number": 2716,
-            "updated_at": "2026-08-12T03:41:27Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2716"
-          },
-          "after": {
-            "number": 2716,
-            "updated_at": "2026-08-14T00:43:35Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2716"
-          }
-        },
-        {
-          "before": {
-            "number": 2762,
-            "updated_at": "2026-08-11T19:54:57Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2762"
-          },
-          "after": {
-            "number": 2762,
-            "updated_at": "2026-08-13T22:37:10Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2762"
-          }
-        },
-        {
-          "before": {
-            "number": 2768,
-            "updated_at": "2026-08-12T17:45:07Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2768"
-          },
-          "after": {
-            "number": 2768,
-            "updated_at": "2026-08-13T16:55:29Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2768"
-          }
-        },
-        {
-          "before": {
-            "number": 2777,
-            "updated_at": "2026-08-12T18:41:03Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2777"
-          },
-          "after": {
-            "number": 2777,
-            "updated_at": "2026-08-13T22:14:18Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2777"
-          }
-        },
-        {
-          "before": {
-            "number": 2790,
-            "updated_at": "2026-08-13T02:49:11Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2790"
-          },
-          "after": {
-            "number": 2790,
-            "updated_at": "2026-08-14T00:58:59Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2790"
-          }
-        },
-        {
-          "before": {
-            "number": 2792,
-            "updated_at": "2026-08-12T17:01:50Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2792"
-          },
-          "after": {
-            "number": 2792,
-            "updated_at": "2026-08-14T02:27:55Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2792"
-          }
-        },
-        {
-          "before": {
-            "number": 2804,
-            "updated_at": "2026-08-12T23:36:30Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2804"
-          },
-          "after": {
-            "number": 2804,
-            "updated_at": "2026-08-13T12:03:27Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2804"
-          }
-        },
-        {
-          "before": {
-            "number": 2823,
-            "updated_at": "2026-08-11T17:27:57Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2823"
-          },
-          "after": {
-            "number": 2823,
-            "updated_at": "2026-08-14T00:08:06Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2823"
-          }
-        },
-        {
-          "before": {
-            "number": 2828,
-            "updated_at": "2026-08-11T05:05:55Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2828"
-          },
-          "after": {
-            "number": 2828,
-            "updated_at": "2026-08-13T17:58:53Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2828"
-          }
-        },
-        {
-          "before": {
-            "number": 2850,
-            "updated_at": "2026-08-12T20:08:41Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2850"
-          },
-          "after": {
-            "number": 2850,
-            "updated_at": "2026-08-13T14:22:27Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2850"
-          }
-        },
-        {
-          "before": {
-            "number": 2855,
-            "updated_at": "2026-08-12T19:08:58Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2855"
-          },
-          "after": {
-            "number": 2855,
-            "updated_at": "2026-08-13T14:39:53Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2855"
-          }
-        },
-        {
-          "before": {
-            "number": 2872,
-            "updated_at": "2026-08-12T13:42:24Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2872"
-          },
-          "after": {
-            "number": 2872,
-            "updated_at": "2026-08-13T17:08:00Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2872"
-          }
-        },
-        {
-          "before": {
-            "number": 2893,
-            "updated_at": "2026-08-09T22:37:24Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2893"
-          },
-          "after": {
-            "number": 2893,
-            "updated_at": "2026-08-13T14:41:20Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2893"
-          }
-        },
-        {
-          "before": {
-            "number": 2910,
-            "updated_at": "2026-08-12T01:19:22Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2910"
-          },
-          "after": {
-            "number": 2910,
-            "updated_at": "2026-08-13T20:27:49Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2910"
-          }
-        },
-        {
-          "before": {
-            "number": 2929,
-            "updated_at": "2026-08-12T20:09:36Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2929"
-          },
-          "after": {
-            "number": 2929,
-            "updated_at": "2026-08-13T13:16:55Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2929"
-          }
-        },
-        {
-          "before": {
-            "number": 2941,
-            "updated_at": "2026-08-12T15:40:29Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2941"
-          },
-          "after": {
-            "number": 2941,
-            "updated_at": "2026-08-13T19:01:04Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2941"
-          }
-        },
-        {
-          "before": {
-            "number": 2943,
-            "updated_at": "2026-08-12T18:01:58Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2943"
-          },
-          "after": {
-            "number": 2943,
-            "updated_at": "2026-08-13T13:35:59Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2943"
-          }
-        },
-        {
-          "before": {
-            "number": 2946,
-            "updated_at": "2026-08-13T02:47:52Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2946"
-          },
-          "after": {
-            "number": 2946,
-            "updated_at": "2026-08-13T22:02:00Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2946"
-          }
-        },
-        {
-          "before": {
-            "number": 2955,
-            "updated_at": "2026-08-11T23:35:40Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2955"
-          },
-          "after": {
-            "number": 2955,
-            "updated_at": "2026-08-13T17:54:45Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2955"
-          }
-        },
-        {
-          "before": {
-            "number": 2971,
-            "updated_at": "2026-08-11T00:51:31Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2971"
-          },
-          "after": {
-            "number": 2971,
-            "updated_at": "2026-08-13T23:13:08Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2971"
-          }
-        },
-        {
-          "before": {
-            "number": 2981,
-            "updated_at": "2026-08-12T21:34:51Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2981"
-          },
-          "after": {
-            "number": 2981,
-            "updated_at": "2026-08-13T20:20:26Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2981"
-          }
-        },
-        {
-          "before": {
-            "number": 2995,
-            "updated_at": "2026-08-12T23:55:01Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2995"
-          },
-          "after": {
-            "number": 2995,
-            "updated_at": "2026-08-13T23:43:46Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2995"
-          }
-        },
-        {
-          "before": {
-            "number": 2999,
-            "updated_at": "2026-08-11T09:09:21Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2999"
-          },
-          "after": {
-            "number": 2999,
-            "updated_at": "2026-08-13T22:52:48Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2999"
-          }
-        },
-        {
-          "before": {
-            "number": 3016,
-            "updated_at": "2026-08-11T11:42:19Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3016"
-          },
-          "after": {
-            "number": 3016,
-            "updated_at": "2026-08-13T19:23:16Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3016"
-          }
-        },
-        {
-          "before": {
-            "number": 3058,
-            "updated_at": "2026-08-11T23:45:48Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3058"
-          },
-          "after": {
-            "number": 3058,
-            "updated_at": "2026-08-13T09:51:43Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3058"
-          }
-        },
-        {
-          "before": {
-            "number": 3059,
-            "updated_at": "2026-08-11T19:52:36Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3059"
-          },
-          "after": {
-            "number": 3059,
-            "updated_at": "2026-08-14T02:06:15Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3059"
-          }
-        },
-        {
-          "before": {
-            "number": 3066,
-            "updated_at": "2026-08-13T00:53:02Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3066"
-          },
-          "after": {
-            "number": 3066,
-            "updated_at": "2026-08-14T01:15:04Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3066"
-          }
-        },
-        {
-          "before": {
-            "number": 3073,
-            "updated_at": "2026-08-13T03:55:26Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3073"
-          },
-          "after": {
-            "number": 3073,
-            "updated_at": "2026-08-14T03:58:16Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3073"
-          }
-        },
-        {
-          "before": {
-            "number": 3081,
-            "updated_at": "2026-08-12T20:00:38Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3081"
-          },
-          "after": {
-            "number": 3081,
-            "updated_at": "2026-08-14T00:39:18Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3081"
-          }
-        },
-        {
-          "before": {
-            "number": 3086,
-            "updated_at": "2026-08-12T19:23:17Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3086"
-          },
-          "after": {
-            "number": 3086,
-            "updated_at": "2026-08-13T17:14:30Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3086"
-          }
-        },
-        {
-          "before": {
-            "number": 3090,
-            "updated_at": "2026-08-12T03:20:45Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3090"
-          },
-          "after": {
-            "number": 3090,
-            "updated_at": "2026-08-14T03:59:38Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3090"
-          }
-        },
-        {
-          "before": {
-            "number": 3099,
-            "updated_at": "2026-08-12T22:13:21Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3099"
-          },
-          "after": {
-            "number": 3099,
-            "updated_at": "2026-08-14T04:15:03Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3099"
-          }
-        },
-        {
-          "before": {
-            "number": 3115,
-            "updated_at": "2026-08-13T04:41:48Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3115"
-          },
-          "after": {
-            "number": 3115,
-            "updated_at": "2026-08-13T22:11:04Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3115"
-          }
-        },
-        {
-          "before": {
-            "number": 3119,
-            "updated_at": "2026-08-12T12:57:42Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3119"
-          },
-          "after": {
-            "number": 3119,
-            "updated_at": "2026-08-13T20:15:06Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3119"
-          }
-        },
-        {
-          "before": {
-            "number": 3123,
-            "updated_at": "2026-08-13T03:16:19Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3123"
-          },
-          "after": {
-            "number": 3123,
-            "updated_at": "2026-08-13T20:48:30Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3123"
-          }
-        },
-        {
-          "before": {
-            "number": 3124,
-            "updated_at": "2026-08-12T15:51:39Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3124"
-          },
-          "after": {
-            "number": 3124,
-            "updated_at": "2026-08-13T09:38:45Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3124"
-          }
-        },
-        {
-          "before": {
-            "number": 3128,
-            "updated_at": "2026-08-12T17:00:10Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3128"
-          },
-          "after": {
-            "number": 3128,
-            "updated_at": "2026-08-13T22:53:51Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3128"
-          }
-        },
-        {
-          "before": {
-            "number": 3129,
-            "updated_at": "2026-08-12T22:51:12Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3129"
-          },
-          "after": {
-            "number": 3129,
-            "updated_at": "2026-08-14T02:37:09Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3129"
-          }
-        },
-        {
-          "before": {
-            "number": 3130,
-            "updated_at": "2026-08-12T17:05:50Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3130"
-          },
-          "after": {
-            "number": 3130,
-            "updated_at": "2026-08-13T19:24:48Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3130"
-          }
-        },
-        {
-          "before": {
-            "number": 3134,
-            "updated_at": "2026-08-12T17:19:03Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3134"
-          },
-          "after": {
-            "number": 3134,
-            "updated_at": "2026-08-13T19:17:25Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3134"
-          }
-        },
-        {
-          "before": {
-            "number": 3137,
-            "updated_at": "2026-08-12T18:24:53Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3137"
-          },
-          "after": {
-            "number": 3137,
-            "updated_at": "2026-08-13T22:51:59Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3137"
-          }
-        },
-        {
-          "before": {
-            "number": 3138,
-            "updated_at": "2026-08-12T20:36:21Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3138"
-          },
-          "after": {
-            "number": 3138,
-            "updated_at": "2026-08-13T19:36:29Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3138"
-          }
-        },
-        {
-          "before": {
-            "number": 3146,
-            "updated_at": "2026-08-12T21:49:30Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3146"
-          },
-          "after": {
-            "number": 3146,
-            "updated_at": "2026-08-13T22:50:02Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3146"
-          }
-        },
-        {
-          "before": {
-            "number": 3151,
-            "updated_at": "2026-08-12T23:07:57Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3151"
-          },
-          "after": {
-            "number": 3151,
-            "updated_at": "2026-08-13T06:19:59Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3151"
-          }
-        },
-        {
-          "before": {
-            "number": 3153,
-            "updated_at": "2026-08-12T23:16:34Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3153"
-          },
-          "after": {
-            "number": 3153,
-            "updated_at": "2026-08-13T22:52:14Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3153"
-          }
-        },
-        {
-          "before": {
-            "number": 3154,
-            "updated_at": "2026-08-13T00:55:49Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3154"
-          },
-          "after": {
-            "number": 3154,
-            "updated_at": "2026-08-13T18:33:01Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3154"
-          }
-        },
-        {
-          "before": {
-            "number": 3156,
-            "updated_at": "2026-08-13T01:31:20Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3156"
-          },
-          "after": {
-            "number": 3156,
-            "updated_at": "2026-08-13T22:51:44Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3156"
-          }
-        },
-        {
-          "before": {
-            "number": 3160,
-            "updated_at": "2026-08-13T04:02:35Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3160"
-          },
-          "after": {
-            "number": 3160,
-            "updated_at": "2026-08-13T22:53:01Z",
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3160"
-          }
-        }
-      ],
-      "closed_or_no_longer_open": [
-        {
-          "number": 1087,
-          "updated_at": "2026-07-31T07:05:40Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1087"
-        },
-        {
-          "number": 1194,
-          "updated_at": "2026-08-13T04:36:58Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1194"
-        },
-        {
-          "number": 1725,
-          "updated_at": "2026-07-29T02:35:49Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1725"
-        },
-        {
-          "number": 1731,
-          "updated_at": "2026-07-29T02:35:42Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1731"
-        },
-        {
-          "number": 1810,
-          "updated_at": "2026-08-13T04:41:27Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1810"
-        },
-        {
-          "number": 1886,
-          "updated_at": "2026-08-08T19:16:21Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1886"
-        },
-        {
-          "number": 1901,
-          "updated_at": "2026-07-29T23:52:49Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1901"
-        },
-        {
-          "number": 1918,
-          "updated_at": "2026-08-12T18:46:41Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1918"
-        },
-        {
-          "number": 1923,
-          "updated_at": "2026-07-29T03:42:38Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1923"
-        },
-        {
-          "number": 1976,
-          "updated_at": "2026-08-13T01:42:12Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1976"
-        },
-        {
-          "number": 2017,
-          "updated_at": "2026-08-12T18:51:43Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2017"
-        },
-        {
-          "number": 2134,
-          "updated_at": "2026-08-03T06:56:44Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2134"
-        },
-        {
-          "number": 3043,
-          "updated_at": "2026-08-12T04:07:18Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3043"
-        },
-        {
-          "number": 3094,
-          "updated_at": "2026-08-13T04:05:53Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3094"
-        },
-        {
-          "number": 3095,
-          "updated_at": "2026-08-12T07:55:11Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3095"
-        },
-        {
-          "number": 3100,
-          "updated_at": "2026-08-12T06:12:33Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3100"
-        },
-        {
-          "number": 3159,
-          "updated_at": "2026-08-13T02:42:20Z",
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3159"
         }
       ]
     },
     "pull_requests": {
       "new": [
         {
-          "number": 3173,
-          "updated_at": "2026-08-14T04:38:22Z",
-          "head_sha": "6e3e7da030978c4ba6c0206ad808b54a8c7f7fd3",
+          "number": 3221,
+          "updated_at": "2026-08-14T17:00:36Z",
+          "head_sha": "006fad9cfa702dfdde3fdd7c10eae94efa481199",
           "base_ref": "main",
           "draft": false,
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3173"
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3221"
         },
         {
-          "number": 3196,
-          "updated_at": "2026-08-13T19:53:49Z",
-          "head_sha": "f983edd55beba6353b069794adece7ba9f483375",
+          "number": 3243,
+          "updated_at": "2026-08-14T13:46:41Z",
+          "head_sha": "321aa50ca4585aa407281b3102504689600328e1",
           "base_ref": "main",
           "draft": false,
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3196"
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3243"
+        },
+        {
+          "number": 3268,
+          "updated_at": "2026-08-14T20:33:46Z",
+          "head_sha": "55fc97731bf9a7910690536428ae196876569be8",
+          "base_ref": "main",
+          "draft": false,
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3268"
+        },
+        {
+          "number": 3269,
+          "updated_at": "2026-08-14T20:43:11Z",
+          "head_sha": "e0c1069936c402a7f6069c9f6f61d947977cf611",
+          "base_ref": "main",
+          "draft": false,
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3269"
+        },
+        {
+          "number": 3270,
+          "updated_at": "2026-08-14T20:44:38Z",
+          "head_sha": "2048ee8e6c7a7dcaf5d82ac3cfaf81bf1595c13a",
+          "base_ref": "main",
+          "draft": false,
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3270"
+        },
+        {
+          "number": 3286,
+          "updated_at": "2026-08-15T04:02:57Z",
+          "head_sha": "d498d09e806fa7ed5c7f0bf63a8e47adfd7dc4a7",
+          "base_ref": "main",
+          "draft": false,
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3286"
+        },
+        {
+          "number": 3287,
+          "updated_at": "2026-08-15T04:03:56Z",
+          "head_sha": "37be5dca4d6315a8bf0753d7b191cda95f1eb9a2",
+          "base_ref": "main",
+          "draft": true,
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3287"
+        },
+        {
+          "number": 3288,
+          "updated_at": "2026-08-15T04:12:28Z",
+          "head_sha": "da804a97758b1e723a436840c6d864235b6e96bb",
+          "base_ref": "main",
+          "draft": false,
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3288"
+        }
+      ],
+      "updated": [
+        {
+          "before": {
+            "number": 2021,
+            "updated_at": "2026-08-13T16:04:02Z",
+            "head_sha": "a8beed6f492952235ed6bed599150188382f08bd",
+            "base_ref": "main",
+            "draft": false,
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2021"
+          },
+          "after": {
+            "number": 2021,
+            "updated_at": "2026-08-14T07:32:13Z",
+            "head_sha": "a8beed6f492952235ed6bed599150188382f08bd",
+            "base_ref": "main",
+            "draft": false,
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2021"
+          }
+        },
+        {
+          "before": {
+            "number": 2101,
+            "updated_at": "2026-08-10T08:51:01Z",
+            "head_sha": "4cc97b2085101a291aca9f888982134bd4255146",
+            "base_ref": "main",
+            "draft": false,
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2101"
+          },
+          "after": {
+            "number": 2101,
+            "updated_at": "2026-08-14T18:55:51Z",
+            "head_sha": "8746dab159860af013836efa0e17762bdcfb3e9e",
+            "base_ref": "main",
+            "draft": false,
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2101"
+          }
+        },
+        {
+          "before": {
+            "number": 2105,
+            "updated_at": "2026-08-03T08:53:37Z",
+            "head_sha": "0f433d66b9d410b8cb60bc0990a56bd659953d9a",
+            "base_ref": "main",
+            "draft": false,
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2105"
+          },
+          "after": {
+            "number": 2105,
+            "updated_at": "2026-08-15T03:21:57Z",
+            "head_sha": "847329d28662ba32abe338a85b87fc36e5b9866d",
+            "base_ref": "main",
+            "draft": false,
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2105"
+          }
+        },
+        {
+          "before": {
+            "number": 2120,
+            "updated_at": "2026-08-03T09:15:55Z",
+            "head_sha": "3095cd11aef5d1bb14da380a1f1bf506a0aac804",
+            "base_ref": "main",
+            "draft": false,
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2120"
+          },
+          "after": {
+            "number": 2120,
+            "updated_at": "2026-08-14T14:30:18Z",
+            "head_sha": "3095cd11aef5d1bb14da380a1f1bf506a0aac804",
+            "base_ref": "main",
+            "draft": false,
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2120"
+          }
+        },
+        {
+          "before": {
+            "number": 2324,
+            "updated_at": "2026-08-03T11:59:43Z",
+            "head_sha": "d47ec8b2c60393fb3f49d86478ca3f12d1f6e83b",
+            "base_ref": "main",
+            "draft": true,
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2324"
+          },
+          "after": {
+            "number": 2324,
+            "updated_at": "2026-08-14T05:54:43Z",
+            "head_sha": "36bd31ebb318ec77a17dbda6a9588dfb1f0db759",
+            "base_ref": "main",
+            "draft": true,
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2324"
+          }
+        },
+        {
+          "before": {
+            "number": 2632,
+            "updated_at": "2026-08-08T12:59:52Z",
+            "head_sha": "69e7610bd4d6e70a3aadf80d417013581eb9d301",
+            "base_ref": "main",
+            "draft": false,
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2632"
+          },
+          "after": {
+            "number": 2632,
+            "updated_at": "2026-08-14T05:37:42Z",
+            "head_sha": "69e7610bd4d6e70a3aadf80d417013581eb9d301",
+            "base_ref": "main",
+            "draft": false,
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2632"
+          }
+        },
+        {
+          "before": {
+            "number": 2807,
+            "updated_at": "2026-08-13T14:54:01Z",
+            "head_sha": "aee358dc4dc81ceae12c11387167578f182fda22",
+            "base_ref": "main",
+            "draft": false,
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2807"
+          },
+          "after": {
+            "number": 2807,
+            "updated_at": "2026-08-14T21:59:09Z",
+            "head_sha": "aee358dc4dc81ceae12c11387167578f182fda22",
+            "base_ref": "main",
+            "draft": false,
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2807"
+          }
+        },
+        {
+          "before": {
+            "number": 2880,
+            "updated_at": "2026-08-10T18:34:25Z",
+            "head_sha": "e47a50a4e7fbe40f13277e0e74d3856277640ebb",
+            "base_ref": "main",
+            "draft": false,
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2880"
+          },
+          "after": {
+            "number": 2880,
+            "updated_at": "2026-08-14T07:36:33Z",
+            "head_sha": "e47a50a4e7fbe40f13277e0e74d3856277640ebb",
+            "base_ref": "main",
+            "draft": false,
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2880"
+          }
+        },
+        {
+          "before": {
+            "number": 2899,
+            "updated_at": "2026-08-14T02:38:05Z",
+            "head_sha": "8e63f3f3af956cb3f8a4a4807c45aa2ac45a7646",
+            "base_ref": "main",
+            "draft": false,
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2899"
+          },
+          "after": {
+            "number": 2899,
+            "updated_at": "2026-08-14T16:50:01Z",
+            "head_sha": "aa14bff55a1eadcfb664ec6b4e8802b943946f78",
+            "base_ref": "main",
+            "draft": false,
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2899"
+          }
+        },
+        {
+          "before": {
+            "number": 2923,
+            "updated_at": "2026-08-11T22:18:08Z",
+            "head_sha": "ec18b7af5759e6124f9c39e0ec8677cd94ecfce0",
+            "base_ref": "main",
+            "draft": false,
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2923"
+          },
+          "after": {
+            "number": 2923,
+            "updated_at": "2026-08-14T22:00:34Z",
+            "head_sha": "e75c937d96057b139b98c9cc2001b02f670d2e3d",
+            "base_ref": "main",
+            "draft": false,
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2923"
+          }
+        },
+        {
+          "before": {
+            "number": 3028,
+            "updated_at": "2026-08-11T16:22:43Z",
+            "head_sha": "77908f512ea50c175102df9785c12ef09c2b3b21",
+            "base_ref": "main",
+            "draft": false,
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3028"
+          },
+          "after": {
+            "number": 3028,
+            "updated_at": "2026-08-14T23:03:11Z",
+            "head_sha": "77908f512ea50c175102df9785c12ef09c2b3b21",
+            "base_ref": "main",
+            "draft": false,
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3028"
+          }
+        },
+        {
+          "before": {
+            "number": 3080,
+            "updated_at": "2026-08-12T07:08:30Z",
+            "head_sha": "7544f879434d53b965dcc505a7f6d4a0b32001bd",
+            "base_ref": "main",
+            "draft": false,
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3080"
+          },
+          "after": {
+            "number": 3080,
+            "updated_at": "2026-08-14T18:04:34Z",
+            "head_sha": "7544f879434d53b965dcc505a7f6d4a0b32001bd",
+            "base_ref": "main",
+            "draft": false,
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3080"
+          }
+        },
+        {
+          "before": {
+            "number": 3173,
+            "updated_at": "2026-08-14T04:38:22Z",
+            "head_sha": "6e3e7da030978c4ba6c0206ad808b54a8c7f7fd3",
+            "base_ref": "main",
+            "draft": false,
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3173"
+          },
+          "after": {
+            "number": 3173,
+            "updated_at": "2026-08-14T05:52:10Z",
+            "head_sha": "be6e21f65ba91bc15cdf5028739f49b766ae85b8",
+            "base_ref": "main",
+            "draft": false,
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3173"
+          }
+        },
+        {
+          "before": {
+            "number": 3217,
+            "updated_at": "2026-08-14T04:55:11Z",
+            "head_sha": "81fe3a5a9d784f9db5bc21466fe3deda5936a7d9",
+            "base_ref": "main",
+            "draft": false,
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3217"
+          },
+          "after": {
+            "number": 3217,
+            "updated_at": "2026-08-14T04:56:56Z",
+            "head_sha": "81fe3a5a9d784f9db5bc21466fe3deda5936a7d9",
+            "base_ref": "main",
+            "draft": false,
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3217"
+          }
+        }
+      ],
+      "closed_or_no_longer_open": [
+        {
+          "number": 975,
+          "updated_at": "2026-07-29T08:33:56Z",
+          "head_sha": "a83a9e5fbcf0d1060cc0f31b065d4a4d1f2b07cd",
+          "base_ref": "main",
+          "draft": false,
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/975"
+        },
+        {
+          "number": 1085,
+          "updated_at": "2026-07-27T21:05:23Z",
+          "head_sha": "2e0926fe4ee993848c0229f608855391de77bcc7",
+          "base_ref": "main",
+          "draft": false,
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/1085"
+        },
+        {
+          "number": 1507,
+          "updated_at": "2026-07-28T09:07:33Z",
+          "head_sha": "edf839a6ed0ce1fd8bb7a3d58bd0460be5a371d0",
+          "base_ref": "main",
+          "draft": false,
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/1507"
+        },
+        {
+          "number": 1796,
+          "updated_at": "2026-08-04T18:30:23Z",
+          "head_sha": "1e485a8e5c7f496d1933749fc7154d5ac068a67c",
+          "base_ref": "main",
+          "draft": false,
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/1796"
+        },
+        {
+          "number": 1950,
+          "updated_at": "2026-07-29T08:28:22Z",
+          "head_sha": "2b40a2d5a420bcc5ee2a85021fa7cf75bc1acea7",
+          "base_ref": "main",
+          "draft": false,
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/1950"
+        },
+        {
+          "number": 2038,
+          "updated_at": "2026-08-04T19:12:33Z",
+          "head_sha": "47eb9117437c71a5d55edb739d6e86b7b7e1a1bd",
+          "base_ref": "main",
+          "draft": false,
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2038"
+        },
+        {
+          "number": 2110,
+          "updated_at": "2026-07-31T20:15:51Z",
+          "head_sha": "6b1c3ad7bac8f223383aa147fc7a97b1a6fdfc36",
+          "base_ref": "main",
+          "draft": false,
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2110"
+        },
+        {
+          "number": 2150,
+          "updated_at": "2026-08-03T12:24:53Z",
+          "head_sha": "ca0023c9663f6e139af03b107c194008c9f47d9f",
+          "base_ref": "main",
+          "draft": false,
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2150"
+        },
+        {
+          "number": 2194,
+          "updated_at": "2026-08-04T20:30:11Z",
+          "head_sha": "11d9b52b2045f485d2fac19daf46d01593c905c8",
+          "base_ref": "main",
+          "draft": false,
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2194"
+        },
+        {
+          "number": 2222,
+          "updated_at": "2026-08-02T07:59:58Z",
+          "head_sha": "58dc6353a0d12be7a7cf0b3b3946c30acb538f2c",
+          "base_ref": "main",
+          "draft": false,
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2222"
+        },
+        {
+          "number": 2315,
+          "updated_at": "2026-08-03T11:37:00Z",
+          "head_sha": "0da9136d23079d9d46c6508dbc3d7f7b7c878942",
+          "base_ref": "main",
+          "draft": false,
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2315"
+        },
+        {
+          "number": 2343,
+          "updated_at": "2026-08-03T14:29:17Z",
+          "head_sha": "023473611f1352433fba1058a9c0598c0ac682fd",
+          "base_ref": "main",
+          "draft": false,
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2343"
+        },
+        {
+          "number": 2414,
+          "updated_at": "2026-08-13T16:04:03Z",
+          "head_sha": "5a27ae98ddfd98520644d928b29f66d7dcf76fa0",
+          "base_ref": "main",
+          "draft": false,
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2414"
+        },
+        {
+          "number": 2596,
+          "updated_at": "2026-08-13T13:03:14Z",
+          "head_sha": "f1c2c7d61f55286faea336220885a5a406965429",
+          "base_ref": "main",
+          "draft": false,
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2596"
+        },
+        {
+          "number": 2720,
+          "updated_at": "2026-08-07T20:34:00Z",
+          "head_sha": "b42d52cd48a886601dc3579cc61548c7a1c20c89",
+          "base_ref": "main",
+          "draft": false,
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2720"
+        },
+        {
+          "number": 2821,
+          "updated_at": "2026-08-08T21:39:50Z",
+          "head_sha": "00759258e2353397840079559029d7d3880ce2de",
+          "base_ref": "main",
+          "draft": false,
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2821"
+        },
+        {
+          "number": 2969,
+          "updated_at": "2026-08-11T19:58:43Z",
+          "head_sha": "f30c577120f11f9b49c18c926b8ed322ef753394",
+          "base_ref": "main",
+          "draft": false,
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2969"
+        },
+        {
+          "number": 3107,
+          "updated_at": "2026-08-13T17:14:49Z",
+          "head_sha": "22dc3277f9ac93faea4c192bf3648d311f8e0d52",
+          "base_ref": "main",
+          "draft": false,
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3107"
+        },
+        {
+          "number": 3113,
+          "updated_at": "2026-08-13T21:00:35Z",
+          "head_sha": "625a51264a00174203022453a3e25a52df86121b",
+          "base_ref": "main",
+          "draft": false,
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3113"
         },
         {
           "number": 3201,
@@ -1116,459 +1606,47 @@
           "base_ref": "main",
           "draft": false,
           "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3216"
-        },
-        {
-          "number": 3217,
-          "updated_at": "2026-08-14T04:55:11Z",
-          "head_sha": "81fe3a5a9d784f9db5bc21466fe3deda5936a7d9",
-          "base_ref": "main",
-          "draft": false,
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3217"
-        }
-      ],
-      "updated": [
-        {
-          "before": {
-            "number": 1978,
-            "updated_at": "2026-08-03T11:37:13Z",
-            "head_sha": "6a442c37a4de337a4ef9d77823738bcf18fb5052",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/1978"
-          },
-          "after": {
-            "number": 1978,
-            "updated_at": "2026-08-13T12:13:21Z",
-            "head_sha": "dd77b96fd7ffd711f37a4a6d346d7b923ae2690a",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/1978"
-          }
-        },
-        {
-          "before": {
-            "number": 2021,
-            "updated_at": "2026-08-11T15:02:26Z",
-            "head_sha": "702a8eb4e2683af85b03304301b22ed0a91881f9",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2021"
-          },
-          "after": {
-            "number": 2021,
-            "updated_at": "2026-08-13T16:04:02Z",
-            "head_sha": "a8beed6f492952235ed6bed599150188382f08bd",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2021"
-          }
-        },
-        {
-          "before": {
-            "number": 2342,
-            "updated_at": "2026-08-05T18:05:30Z",
-            "head_sha": "98ce65280f920596642b426c2c20945ddbeaec08",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2342"
-          },
-          "after": {
-            "number": 2342,
-            "updated_at": "2026-08-13T13:29:04Z",
-            "head_sha": "e0d928cde1087a5f7e3d5a9ec89cbcc9df8a9d94",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2342"
-          }
-        },
-        {
-          "before": {
-            "number": 2414,
-            "updated_at": "2026-08-05T18:18:56Z",
-            "head_sha": "34e1599a9083ea82c857440391b760b0c4027c26",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2414"
-          },
-          "after": {
-            "number": 2414,
-            "updated_at": "2026-08-13T16:04:03Z",
-            "head_sha": "5a27ae98ddfd98520644d928b29f66d7dcf76fa0",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2414"
-          }
-        },
-        {
-          "before": {
-            "number": 2596,
-            "updated_at": "2026-08-05T17:23:32Z",
-            "head_sha": "6b48412407be0b40bebf6eef70330a2ca23c02bd",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2596"
-          },
-          "after": {
-            "number": 2596,
-            "updated_at": "2026-08-13T13:03:14Z",
-            "head_sha": "f1c2c7d61f55286faea336220885a5a406965429",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2596"
-          }
-        },
-        {
-          "before": {
-            "number": 2715,
-            "updated_at": "2026-08-07T19:33:08Z",
-            "head_sha": "b543db5a753175a837d5b8e14304b77d6577d7de",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2715"
-          },
-          "after": {
-            "number": 2715,
-            "updated_at": "2026-08-13T13:29:03Z",
-            "head_sha": "846cc05118180ecd996075e9f7cfa1976a9e17bb",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2715"
-          }
-        },
-        {
-          "before": {
-            "number": 2761,
-            "updated_at": "2026-08-08T14:01:43Z",
-            "head_sha": "19e2861f4dbeb85d8ef3bfe24ef1da94d99037fd",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2761"
-          },
-          "after": {
-            "number": 2761,
-            "updated_at": "2026-08-13T15:04:16Z",
-            "head_sha": "e68d8bb2aa141d90ed5e2a4b289be971988ac64a",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2761"
-          }
-        },
-        {
-          "before": {
-            "number": 2807,
-            "updated_at": "2026-08-09T18:48:45Z",
-            "head_sha": "a8071249b761ee119eff4f323156d67b31e47a56",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2807"
-          },
-          "after": {
-            "number": 2807,
-            "updated_at": "2026-08-13T14:54:01Z",
-            "head_sha": "aee358dc4dc81ceae12c11387167578f182fda22",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2807"
-          }
-        },
-        {
-          "before": {
-            "number": 2899,
-            "updated_at": "2026-08-10T06:59:28Z",
-            "head_sha": "2beb73355f06efaf62c9122b4f399b6d797da48d",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2899"
-          },
-          "after": {
-            "number": 2899,
-            "updated_at": "2026-08-14T02:38:05Z",
-            "head_sha": "8e63f3f3af956cb3f8a4a4807c45aa2ac45a7646",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2899"
-          }
-        },
-        {
-          "before": {
-            "number": 2928,
-            "updated_at": "2026-08-10T12:38:45Z",
-            "head_sha": "278bfe3b1b18ab8371454089e8edbd0d46f8fb4a",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2928"
-          },
-          "after": {
-            "number": 2928,
-            "updated_at": "2026-08-13T15:31:53Z",
-            "head_sha": "a64c298a94d9ffed34904fda301e57701bfca0d6",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2928"
-          }
-        },
-        {
-          "before": {
-            "number": 2932,
-            "updated_at": "2026-08-10T18:05:59Z",
-            "head_sha": "2964fab415f1b9a3b804813d478a2f71bb0dfd0c",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2932"
-          },
-          "after": {
-            "number": 2932,
-            "updated_at": "2026-08-13T13:03:10Z",
-            "head_sha": "80ba625150dcd0eb91b996b99b41efc612e6635d",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2932"
-          }
-        },
-        {
-          "before": {
-            "number": 2994,
-            "updated_at": "2026-08-11T09:09:55Z",
-            "head_sha": "fca9d9dd1f2cdb8de685597378670450243dcad0",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2994"
-          },
-          "after": {
-            "number": 2994,
-            "updated_at": "2026-08-13T13:03:09Z",
-            "head_sha": "10f82b1731a9eb57e49527b4584bd08ed7b49730",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2994"
-          }
-        },
-        {
-          "before": {
-            "number": 3023,
-            "updated_at": "2026-08-11T13:16:19Z",
-            "head_sha": "e1bc1b479d7f88c0085d7a5be0a353b0d8676195",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3023"
-          },
-          "after": {
-            "number": 3023,
-            "updated_at": "2026-08-13T13:03:08Z",
-            "head_sha": "f670fa7cb554e05739d546b6b607f07243892085",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3023"
-          }
-        },
-        {
-          "before": {
-            "number": 3048,
-            "updated_at": "2026-08-11T17:51:00Z",
-            "head_sha": "486106fd84e763742ff4785ae72b4e123bfd2341",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3048"
-          },
-          "after": {
-            "number": 3048,
-            "updated_at": "2026-08-13T13:03:07Z",
-            "head_sha": "4944e075579d54ae5802f2ccca268b98efa6beb6",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3048"
-          }
-        },
-        {
-          "before": {
-            "number": 3107,
-            "updated_at": "2026-08-12T09:12:49Z",
-            "head_sha": "0c7a9803916157ef682ef4aa208c2dfae6161482",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3107"
-          },
-          "after": {
-            "number": 3107,
-            "updated_at": "2026-08-13T17:14:49Z",
-            "head_sha": "22dc3277f9ac93faea4c192bf3648d311f8e0d52",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3107"
-          }
-        },
-        {
-          "before": {
-            "number": 3113,
-            "updated_at": "2026-08-12T15:50:50Z",
-            "head_sha": "d9c654757f0b3f897a8ea17112cc24ddc5f6377c",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3113"
-          },
-          "after": {
-            "number": 3113,
-            "updated_at": "2026-08-13T21:00:35Z",
-            "head_sha": "625a51264a00174203022453a3e25a52df86121b",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3113"
-          }
-        },
-        {
-          "before": {
-            "number": 3127,
-            "updated_at": "2026-08-12T16:51:53Z",
-            "head_sha": "38fed63850824886a7d7fd0a5fd6b26c4996b27b",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3127"
-          },
-          "after": {
-            "number": 3127,
-            "updated_at": "2026-08-13T17:23:48Z",
-            "head_sha": "13515dc988696b80b87122480eec9b65c2f82e8a",
-            "base_ref": "main",
-            "draft": false,
-            "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3127"
-          }
-        }
-      ],
-      "closed_or_no_longer_open": [
-        {
-          "number": 2079,
-          "updated_at": "2026-08-03T11:37:21Z",
-          "head_sha": "3b8c93f00cdc2905d315e88d128cfec3cc9fe92f",
-          "base_ref": "main",
-          "draft": false,
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2079"
-        },
-        {
-          "number": 2080,
-          "updated_at": "2026-08-03T11:37:19Z",
-          "head_sha": "d49ddcbe05210888c1e496664c56bbadf1e771c6",
-          "base_ref": "main",
-          "draft": false,
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2080"
-        },
-        {
-          "number": 2081,
-          "updated_at": "2026-08-07T10:16:15Z",
-          "head_sha": "88e653741c929f2ff1362d03056026535677131a",
-          "base_ref": "main",
-          "draft": false,
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2081"
-        },
-        {
-          "number": 2083,
-          "updated_at": "2026-08-03T11:37:15Z",
-          "head_sha": "583d944a82e8322eb830b60478147f2040271844",
-          "base_ref": "main",
-          "draft": false,
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2083"
-        },
-        {
-          "number": 2089,
-          "updated_at": "2026-08-07T12:16:12Z",
-          "head_sha": "ae365e22fb25640de6d39e2968ef32a1c4c3c0e8",
-          "base_ref": "main",
-          "draft": false,
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2089"
-        },
-        {
-          "number": 2121,
-          "updated_at": "2026-08-03T11:36:56Z",
-          "head_sha": "660c14d156755d4250428309df1f4162c2257fa3",
-          "base_ref": "main",
-          "draft": false,
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2121"
-        },
-        {
-          "number": 2149,
-          "updated_at": "2026-08-03T11:37:46Z",
-          "head_sha": "bd494fecbf12120c1db3cf6ed5f408acc72a780e",
-          "base_ref": "main",
-          "draft": false,
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2149"
-        },
-        {
-          "number": 2170,
-          "updated_at": "2026-08-07T11:19:37Z",
-          "head_sha": "b802313951d4ac1121172dfbada812c33fec45ed",
-          "base_ref": "main",
-          "draft": false,
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2170"
-        },
-        {
-          "number": 2277,
-          "updated_at": "2026-08-08T08:27:05Z",
-          "head_sha": "eedaefb893efc67c466dd572f53c96de2298fb7d",
-          "base_ref": "main",
-          "draft": false,
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2277"
-        },
-        {
-          "number": 2812,
-          "updated_at": "2026-08-11T21:39:11Z",
-          "head_sha": "8d9e63147b9e06d9f9da01f71acddb4193545f6e",
-          "base_ref": "main",
-          "draft": false,
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2812"
-        },
-        {
-          "number": 3098,
-          "updated_at": "2026-08-13T01:50:25Z",
-          "head_sha": "847c64b02cbd43dc2618b02a75179ed383b8a533",
-          "base_ref": "main",
-          "draft": false,
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3098"
-        },
-        {
-          "number": 3101,
-          "updated_at": "2026-08-12T06:17:33Z",
-          "head_sha": "b752cba4ec20bb11bcb7f6c1e9d80d4285017bf8",
-          "base_ref": "main",
-          "draft": false,
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3101"
-        },
-        {
-          "number": 3126,
-          "updated_at": "2026-08-12T16:56:31Z",
-          "head_sha": "d296b800502118d60b6950b5529a1f18a58abb66",
-          "base_ref": "main",
-          "draft": false,
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3126"
-        },
-        {
-          "number": 3148,
-          "updated_at": "2026-08-12T22:10:25Z",
-          "head_sha": "0ee53d49cdd06c3cde11ef74f50e2f425d4d5924",
-          "base_ref": "main",
-          "draft": false,
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3148"
-        },
-        {
-          "number": 3157,
-          "updated_at": "2026-08-13T01:51:38Z",
-          "head_sha": "fa6237466c14612c0a9e64b3021d1ff1225d7380",
-          "base_ref": "main",
-          "draft": false,
-          "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3157"
         }
       ]
     },
     "releases": {
-      "new": [],
+      "new": [
+        {
+          "id": 370643337,
+          "tag": "v2.4.0-rc.8",
+          "name": "v2.4.0-rc.8 — What STATUS advertises, the runtime executes",
+          "draft": false,
+          "prerelease": true,
+          "published_at": "2026-08-14T14:54:29Z",
+          "target": "main",
+          "url": "https://github.com/Gentleman-Programming/gentle-ai/releases/tag/v2.4.0-rc.8"
+        }
+      ],
       "updated": [],
       "closed_or_no_longer_open": []
     },
     "tags": {
-      "new": [],
+      "new": [
+        {
+          "name": "v2.4.0-rc.8",
+          "sha": "b002e0e7dfd30d7dbf5c3b43cf8be4e0fa7162da"
+        }
+      ],
       "updated": [],
       "closed_or_no_longer_open": []
     }
   },
   "releases_recent": [
+    {
+      "id": 370643337,
+      "tag": "v2.4.0-rc.8",
+      "name": "v2.4.0-rc.8 — What STATUS advertises, the runtime executes",
+      "draft": false,
+      "prerelease": true,
+      "published_at": "2026-08-14T14:54:29Z",
+      "target": "main",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/releases/tag/v2.4.0-rc.8"
+    },
     {
       "id": 369371616,
       "tag": "v2.4.0-rc.7",
@@ -1658,19 +1736,13 @@
       "published_at": "2026-08-04T17:14:52Z",
       "target": "main",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/releases/tag/v2.3.0-rc.1"
-    },
-    {
-      "id": 363233526,
-      "tag": "v2.2.4",
-      "name": "v2.2.4",
-      "draft": false,
-      "prerelease": false,
-      "published_at": "2026-07-31T17:40:54Z",
-      "target": "main",
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/releases/tag/v2.2.4"
     }
   ],
   "tags_recent": [
+    {
+      "name": "v2.4.0-rc.8",
+      "sha": "b002e0e7dfd30d7dbf5c3b43cf8be4e0fa7162da"
+    },
     {
       "name": "v2.4.0-rc.7",
       "sha": "72cf613c826fce7f830d00a514d19cab406916ff"
@@ -1706,10 +1778,6 @@
     {
       "name": "v2.3.0-rc.1",
       "sha": "9b2cf201c0c1848da80c73058530e454349cd213"
-    },
-    {
-      "name": "v2.2.4",
-      "sha": "fdecaf570a20b042da36d0b0b6e0a21ee5fed182"
     }
   ],
   "open_issues": [
@@ -1740,7 +1808,7 @@
     },
     {
       "number": 259,
-      "updated_at": "2026-08-13T04:36:58Z",
+      "updated_at": "2026-08-15T00:02:12Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/259"
     },
     {
@@ -1835,7 +1903,7 @@
     },
     {
       "number": 523,
-      "updated_at": "2026-08-14T00:09:02Z",
+      "updated_at": "2026-08-14T10:19:58Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/523"
     },
     {
@@ -2149,11 +2217,6 @@
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1021"
     },
     {
-      "number": 1024,
-      "updated_at": "2026-08-08T19:08:35Z",
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1024"
-    },
-    {
       "number": 1033,
       "updated_at": "2026-08-05T14:33:21Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1033"
@@ -2177,11 +2240,6 @@
       "number": 1078,
       "updated_at": "2026-07-29T14:20:16Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1078"
-    },
-    {
-      "number": 1096,
-      "updated_at": "2026-08-14T00:17:54Z",
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1096"
     },
     {
       "number": 1130,
@@ -2210,7 +2268,7 @@
     },
     {
       "number": 1212,
-      "updated_at": "2026-08-05T00:47:27Z",
+      "updated_at": "2026-08-14T14:55:30Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1212"
     },
     {
@@ -2219,18 +2277,13 @@
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1213"
     },
     {
-      "number": 1222,
-      "updated_at": "2026-08-09T22:20:53Z",
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1222"
-    },
-    {
       "number": 1227,
       "updated_at": "2026-08-02T03:23:34Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1227"
     },
     {
       "number": 1241,
-      "updated_at": "2026-08-05T18:10:15Z",
+      "updated_at": "2026-08-14T17:57:19Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1241"
     },
     {
@@ -2280,7 +2333,7 @@
     },
     {
       "number": 1302,
-      "updated_at": "2026-08-11T18:13:01Z",
+      "updated_at": "2026-08-14T15:06:31Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1302"
     },
     {
@@ -2315,7 +2368,7 @@
     },
     {
       "number": 1529,
-      "updated_at": "2026-08-09T19:48:51Z",
+      "updated_at": "2026-08-14T19:33:06Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1529"
     },
     {
@@ -2375,12 +2428,12 @@
     },
     {
       "number": 1656,
-      "updated_at": "2026-08-11T17:06:22Z",
+      "updated_at": "2026-08-14T21:52:22Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1656"
     },
     {
       "number": 1658,
-      "updated_at": "2026-08-12T21:05:07Z",
+      "updated_at": "2026-08-15T00:59:22Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1658"
     },
     {
@@ -2402,6 +2455,11 @@
       "number": 1673,
       "updated_at": "2026-08-02T05:18:37Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1673"
+    },
+    {
+      "number": 1677,
+      "updated_at": "2026-08-14T05:59:18Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1677"
     },
     {
       "number": 1678,
@@ -2522,11 +2580,6 @@
       "number": 1784,
       "updated_at": "2026-08-03T13:57:33Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1784"
-    },
-    {
-      "number": 1789,
-      "updated_at": "2026-08-11T16:05:58Z",
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1789"
     },
     {
       "number": 1792,
@@ -2667,11 +2720,6 @@
       "number": 1874,
       "updated_at": "2026-07-29T03:43:00Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1874"
-    },
-    {
-      "number": 1875,
-      "updated_at": "2026-08-12T17:38:14Z",
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/1875"
     },
     {
       "number": 1876,
@@ -2885,7 +2933,7 @@
     },
     {
       "number": 2029,
-      "updated_at": "2026-08-13T19:45:33Z",
+      "updated_at": "2026-08-14T21:19:23Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2029"
     },
     {
@@ -2934,11 +2982,6 @@
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2087"
     },
     {
-      "number": 2091,
-      "updated_at": "2026-08-06T19:12:34Z",
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2091"
-    },
-    {
       "number": 2092,
       "updated_at": "2026-08-10T22:58:24Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2092"
@@ -2970,7 +3013,7 @@
     },
     {
       "number": 2114,
-      "updated_at": "2026-08-13T20:25:55Z",
+      "updated_at": "2026-08-15T03:05:00Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2114"
     },
     {
@@ -2995,7 +3038,7 @@
     },
     {
       "number": 2135,
-      "updated_at": "2026-08-14T03:18:53Z",
+      "updated_at": "2026-08-14T21:55:55Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2135"
     },
     {
@@ -3085,7 +3128,7 @@
     },
     {
       "number": 2208,
-      "updated_at": "2026-08-12T19:29:38Z",
+      "updated_at": "2026-08-14T15:12:40Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2208"
     },
     {
@@ -3095,7 +3138,7 @@
     },
     {
       "number": 2212,
-      "updated_at": "2026-08-10T23:15:37Z",
+      "updated_at": "2026-08-15T00:32:56Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2212"
     },
     {
@@ -3137,16 +3180,6 @@
       "number": 2238,
       "updated_at": "2026-08-02T06:50:30Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2238"
-    },
-    {
-      "number": 2241,
-      "updated_at": "2026-08-12T15:00:47Z",
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2241"
-    },
-    {
-      "number": 2252,
-      "updated_at": "2026-08-10T18:01:14Z",
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2252"
     },
     {
       "number": 2259,
@@ -3209,19 +3242,9 @@
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2322"
     },
     {
-      "number": 2325,
-      "updated_at": "2026-08-04T23:53:49Z",
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2325"
-    },
-    {
       "number": 2340,
       "updated_at": "2026-08-13T17:00:55Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2340"
-    },
-    {
-      "number": 2341,
-      "updated_at": "2026-08-04T23:53:47Z",
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2341"
     },
     {
       "number": 2344,
@@ -3232,11 +3255,6 @@
       "number": 2345,
       "updated_at": "2026-08-03T14:45:22Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2345"
-    },
-    {
-      "number": 2349,
-      "updated_at": "2026-08-03T16:36:48Z",
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2349"
     },
     {
       "number": 2350,
@@ -3285,7 +3303,7 @@
     },
     {
       "number": 2389,
-      "updated_at": "2026-08-14T01:01:37Z",
+      "updated_at": "2026-08-14T15:04:02Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2389"
     },
     {
@@ -3295,7 +3313,7 @@
     },
     {
       "number": 2411,
-      "updated_at": "2026-08-12T17:42:00Z",
+      "updated_at": "2026-08-15T02:44:57Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2411"
     },
     {
@@ -3314,19 +3332,9 @@
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2416"
     },
     {
-      "number": 2418,
-      "updated_at": "2026-08-12T19:22:59Z",
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2418"
-    },
-    {
       "number": 2419,
       "updated_at": "2026-08-11T16:45:49Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2419"
-    },
-    {
-      "number": 2420,
-      "updated_at": "2026-08-04T09:12:19Z",
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2420"
     },
     {
       "number": 2422,
@@ -3505,7 +3513,7 @@
     },
     {
       "number": 2609,
-      "updated_at": "2026-08-13T22:34:19Z",
+      "updated_at": "2026-08-15T04:24:21Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2609"
     },
     {
@@ -3545,13 +3553,8 @@
     },
     {
       "number": 2629,
-      "updated_at": "2026-08-13T15:58:24Z",
+      "updated_at": "2026-08-14T23:41:15Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2629"
-    },
-    {
-      "number": 2631,
-      "updated_at": "2026-08-14T03:34:54Z",
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2631"
     },
     {
       "number": 2638,
@@ -3565,17 +3568,17 @@
     },
     {
       "number": 2644,
-      "updated_at": "2026-08-13T00:45:29Z",
+      "updated_at": "2026-08-14T05:59:01Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2644"
     },
     {
       "number": 2645,
-      "updated_at": "2026-08-11T00:07:46Z",
+      "updated_at": "2026-08-14T13:31:21Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2645"
     },
     {
       "number": 2646,
-      "updated_at": "2026-08-13T03:35:10Z",
+      "updated_at": "2026-08-14T20:32:17Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2646"
     },
     {
@@ -3614,11 +3617,6 @@
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2661"
     },
     {
-      "number": 2662,
-      "updated_at": "2026-08-06T20:41:46Z",
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2662"
-    },
-    {
       "number": 2669,
       "updated_at": "2026-08-11T15:04:39Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2669"
@@ -3630,7 +3628,7 @@
     },
     {
       "number": 2687,
-      "updated_at": "2026-08-09T16:43:21Z",
+      "updated_at": "2026-08-14T10:29:22Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2687"
     },
     {
@@ -3640,7 +3638,7 @@
     },
     {
       "number": 2698,
-      "updated_at": "2026-08-12T01:44:53Z",
+      "updated_at": "2026-08-14T12:44:54Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2698"
     },
     {
@@ -3650,7 +3648,7 @@
     },
     {
       "number": 2702,
-      "updated_at": "2026-08-12T02:03:27Z",
+      "updated_at": "2026-08-14T23:10:11Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2702"
     },
     {
@@ -3660,7 +3658,7 @@
     },
     {
       "number": 2710,
-      "updated_at": "2026-08-13T22:08:16Z",
+      "updated_at": "2026-08-14T16:52:06Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2710"
     },
     {
@@ -3670,7 +3668,7 @@
     },
     {
       "number": 2716,
-      "updated_at": "2026-08-14T00:43:35Z",
+      "updated_at": "2026-08-15T01:28:59Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2716"
     },
     {
@@ -3730,7 +3728,7 @@
     },
     {
       "number": 2777,
-      "updated_at": "2026-08-13T22:14:18Z",
+      "updated_at": "2026-08-14T07:29:35Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2777"
     },
     {
@@ -3750,7 +3748,7 @@
     },
     {
       "number": 2790,
-      "updated_at": "2026-08-14T00:58:59Z",
+      "updated_at": "2026-08-14T18:30:04Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2790"
     },
     {
@@ -3760,7 +3758,7 @@
     },
     {
       "number": 2792,
-      "updated_at": "2026-08-14T02:27:55Z",
+      "updated_at": "2026-08-14T21:21:26Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2792"
     },
     {
@@ -3775,7 +3773,7 @@
     },
     {
       "number": 2804,
-      "updated_at": "2026-08-13T12:03:27Z",
+      "updated_at": "2026-08-14T21:28:48Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2804"
     },
     {
@@ -3810,7 +3808,7 @@
     },
     {
       "number": 2823,
-      "updated_at": "2026-08-14T00:08:06Z",
+      "updated_at": "2026-08-14T16:22:35Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2823"
     },
     {
@@ -3920,7 +3918,7 @@
     },
     {
       "number": 2872,
-      "updated_at": "2026-08-13T17:08:00Z",
+      "updated_at": "2026-08-14T21:16:43Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2872"
     },
     {
@@ -3940,12 +3938,12 @@
     },
     {
       "number": 2895,
-      "updated_at": "2026-08-10T18:34:25Z",
+      "updated_at": "2026-08-14T14:21:36Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2895"
     },
     {
       "number": 2896,
-      "updated_at": "2026-08-11T23:37:06Z",
+      "updated_at": "2026-08-14T18:26:53Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2896"
     },
     {
@@ -3974,11 +3972,6 @@
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2908"
     },
     {
-      "number": 2909,
-      "updated_at": "2026-08-10T04:08:38Z",
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2909"
-    },
-    {
       "number": 2910,
       "updated_at": "2026-08-13T20:27:49Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2910"
@@ -3995,7 +3988,7 @@
     },
     {
       "number": 2918,
-      "updated_at": "2026-08-10T08:02:20Z",
+      "updated_at": "2026-08-14T18:53:03Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2918"
     },
     {
@@ -4030,7 +4023,7 @@
     },
     {
       "number": 2943,
-      "updated_at": "2026-08-13T13:35:59Z",
+      "updated_at": "2026-08-14T23:35:07Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2943"
     },
     {
@@ -4040,7 +4033,7 @@
     },
     {
       "number": 2946,
-      "updated_at": "2026-08-13T22:02:00Z",
+      "updated_at": "2026-08-15T02:09:40Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2946"
     },
     {
@@ -4050,7 +4043,7 @@
     },
     {
       "number": 2955,
-      "updated_at": "2026-08-13T17:54:45Z",
+      "updated_at": "2026-08-14T14:40:10Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2955"
     },
     {
@@ -4080,7 +4073,7 @@
     },
     {
       "number": 2972,
-      "updated_at": "2026-08-12T17:58:27Z",
+      "updated_at": "2026-08-14T18:53:18Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2972"
     },
     {
@@ -4089,13 +4082,8 @@
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2975"
     },
     {
-      "number": 2976,
-      "updated_at": "2026-08-12T16:45:01Z",
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2976"
-    },
-    {
       "number": 2981,
-      "updated_at": "2026-08-13T20:20:26Z",
+      "updated_at": "2026-08-14T17:35:58Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2981"
     },
     {
@@ -4110,12 +4098,12 @@
     },
     {
       "number": 2992,
-      "updated_at": "2026-08-11T18:55:38Z",
+      "updated_at": "2026-08-14T20:09:38Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2992"
     },
     {
       "number": 2995,
-      "updated_at": "2026-08-13T23:43:46Z",
+      "updated_at": "2026-08-15T02:55:47Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2995"
     },
     {
@@ -4125,7 +4113,7 @@
     },
     {
       "number": 2997,
-      "updated_at": "2026-08-13T00:02:38Z",
+      "updated_at": "2026-08-14T18:07:22Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/2997"
     },
     {
@@ -4220,7 +4208,7 @@
     },
     {
       "number": 3042,
-      "updated_at": "2026-08-12T13:16:12Z",
+      "updated_at": "2026-08-15T01:16:52Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3042"
     },
     {
@@ -4245,7 +4233,7 @@
     },
     {
       "number": 3066,
-      "updated_at": "2026-08-14T01:15:04Z",
+      "updated_at": "2026-08-15T03:09:10Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3066"
     },
     {
@@ -4254,18 +4242,13 @@
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3069"
     },
     {
-      "number": 3070,
-      "updated_at": "2026-08-11T21:12:00Z",
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3070"
-    },
-    {
       "number": 3071,
       "updated_at": "2026-08-12T19:29:37Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3071"
     },
     {
       "number": 3073,
-      "updated_at": "2026-08-14T03:58:16Z",
+      "updated_at": "2026-08-14T21:48:57Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3073"
     },
     {
@@ -4280,7 +4263,7 @@
     },
     {
       "number": 3081,
-      "updated_at": "2026-08-14T00:39:18Z",
+      "updated_at": "2026-08-14T19:14:22Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3081"
     },
     {
@@ -4300,7 +4283,7 @@
     },
     {
       "number": 3086,
-      "updated_at": "2026-08-13T17:14:30Z",
+      "updated_at": "2026-08-15T04:26:10Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3086"
     },
     {
@@ -4315,7 +4298,7 @@
     },
     {
       "number": 3092,
-      "updated_at": "2026-08-12T13:33:07Z",
+      "updated_at": "2026-08-14T22:51:25Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3092"
     },
     {
@@ -4325,7 +4308,7 @@
     },
     {
       "number": 3099,
-      "updated_at": "2026-08-14T04:15:03Z",
+      "updated_at": "2026-08-15T00:27:41Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3099"
     },
     {
@@ -4345,7 +4328,7 @@
     },
     {
       "number": 3115,
-      "updated_at": "2026-08-13T22:11:04Z",
+      "updated_at": "2026-08-15T00:41:00Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3115"
     },
     {
@@ -4360,17 +4343,17 @@
     },
     {
       "number": 3119,
-      "updated_at": "2026-08-13T20:15:06Z",
+      "updated_at": "2026-08-14T21:18:18Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3119"
     },
     {
       "number": 3120,
-      "updated_at": "2026-08-12T13:35:09Z",
+      "updated_at": "2026-08-14T22:22:15Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3120"
     },
     {
       "number": 3123,
-      "updated_at": "2026-08-13T20:48:30Z",
+      "updated_at": "2026-08-14T21:46:38Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3123"
     },
     {
@@ -4385,7 +4368,7 @@
     },
     {
       "number": 3129,
-      "updated_at": "2026-08-14T02:37:09Z",
+      "updated_at": "2026-08-14T21:23:13Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3129"
     },
     {
@@ -4400,7 +4383,7 @@
     },
     {
       "number": 3132,
-      "updated_at": "2026-08-12T17:12:53Z",
+      "updated_at": "2026-08-15T02:38:13Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3132"
     },
     {
@@ -4422,16 +4405,6 @@
       "number": 3136,
       "updated_at": "2026-08-12T17:49:27Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3136"
-    },
-    {
-      "number": 3137,
-      "updated_at": "2026-08-13T22:51:59Z",
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3137"
-    },
-    {
-      "number": 3138,
-      "updated_at": "2026-08-13T19:36:29Z",
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3138"
     },
     {
       "number": 3141,
@@ -4465,17 +4438,17 @@
     },
     {
       "number": 3153,
-      "updated_at": "2026-08-13T22:52:14Z",
+      "updated_at": "2026-08-14T07:04:42Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3153"
     },
     {
       "number": 3154,
-      "updated_at": "2026-08-13T18:33:01Z",
+      "updated_at": "2026-08-14T15:42:55Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3154"
     },
     {
       "number": 3155,
-      "updated_at": "2026-08-13T02:21:55Z",
+      "updated_at": "2026-08-14T18:04:15Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3155"
     },
     {
@@ -4504,13 +4477,8 @@
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3168"
     },
     {
-      "number": 3169,
-      "updated_at": "2026-08-14T00:23:40Z",
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3169"
-    },
-    {
       "number": 3174,
-      "updated_at": "2026-08-13T13:24:57Z",
+      "updated_at": "2026-08-14T20:35:43Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3174"
     },
     {
@@ -4525,7 +4493,7 @@
     },
     {
       "number": 3183,
-      "updated_at": "2026-08-14T00:19:29Z",
+      "updated_at": "2026-08-14T22:32:06Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3183"
     },
     {
@@ -4545,7 +4513,7 @@
     },
     {
       "number": 3189,
-      "updated_at": "2026-08-13T17:12:02Z",
+      "updated_at": "2026-08-14T21:22:25Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3189"
     },
     {
@@ -4555,7 +4523,7 @@
     },
     {
       "number": 3191,
-      "updated_at": "2026-08-13T22:12:45Z",
+      "updated_at": "2026-08-14T17:02:47Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3191"
     },
     {
@@ -4565,7 +4533,7 @@
     },
     {
       "number": 3194,
-      "updated_at": "2026-08-14T04:00:39Z",
+      "updated_at": "2026-08-14T23:26:36Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3194"
     },
     {
@@ -4580,7 +4548,7 @@
     },
     {
       "number": 3202,
-      "updated_at": "2026-08-13T21:33:38Z",
+      "updated_at": "2026-08-14T07:12:48Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3202"
     },
     {
@@ -4590,7 +4558,7 @@
     },
     {
       "number": 3204,
-      "updated_at": "2026-08-13T21:55:22Z",
+      "updated_at": "2026-08-15T02:00:06Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3204"
     },
     {
@@ -4615,7 +4583,7 @@
     },
     {
       "number": 3213,
-      "updated_at": "2026-08-14T02:18:13Z",
+      "updated_at": "2026-08-15T03:57:13Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3213"
     },
     {
@@ -4627,6 +4595,191 @@
       "number": 3215,
       "updated_at": "2026-08-14T03:49:40Z",
       "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3215"
+    },
+    {
+      "number": 3219,
+      "updated_at": "2026-08-14T22:26:35Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3219"
+    },
+    {
+      "number": 3220,
+      "updated_at": "2026-08-14T05:47:55Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3220"
+    },
+    {
+      "number": 3222,
+      "updated_at": "2026-08-14T06:13:39Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3222"
+    },
+    {
+      "number": 3224,
+      "updated_at": "2026-08-14T07:16:41Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3224"
+    },
+    {
+      "number": 3226,
+      "updated_at": "2026-08-14T08:52:36Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3226"
+    },
+    {
+      "number": 3233,
+      "updated_at": "2026-08-14T12:16:50Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3233"
+    },
+    {
+      "number": 3239,
+      "updated_at": "2026-08-14T19:33:05Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3239"
+    },
+    {
+      "number": 3240,
+      "updated_at": "2026-08-14T18:33:28Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3240"
+    },
+    {
+      "number": 3244,
+      "updated_at": "2026-08-14T15:56:33Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3244"
+    },
+    {
+      "number": 3245,
+      "updated_at": "2026-08-14T14:36:43Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3245"
+    },
+    {
+      "number": 3246,
+      "updated_at": "2026-08-14T21:10:28Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3246"
+    },
+    {
+      "number": 3248,
+      "updated_at": "2026-08-14T14:59:43Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3248"
+    },
+    {
+      "number": 3250,
+      "updated_at": "2026-08-14T15:10:17Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3250"
+    },
+    {
+      "number": 3251,
+      "updated_at": "2026-08-14T17:50:13Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3251"
+    },
+    {
+      "number": 3252,
+      "updated_at": "2026-08-14T18:32:13Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3252"
+    },
+    {
+      "number": 3253,
+      "updated_at": "2026-08-14T17:08:42Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3253"
+    },
+    {
+      "number": 3255,
+      "updated_at": "2026-08-14T17:39:36Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3255"
+    },
+    {
+      "number": 3256,
+      "updated_at": "2026-08-14T17:49:17Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3256"
+    },
+    {
+      "number": 3257,
+      "updated_at": "2026-08-14T17:49:19Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3257"
+    },
+    {
+      "number": 3258,
+      "updated_at": "2026-08-14T17:49:21Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3258"
+    },
+    {
+      "number": 3259,
+      "updated_at": "2026-08-15T01:46:31Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3259"
+    },
+    {
+      "number": 3260,
+      "updated_at": "2026-08-14T18:46:08Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3260"
+    },
+    {
+      "number": 3262,
+      "updated_at": "2026-08-14T19:17:43Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3262"
+    },
+    {
+      "number": 3263,
+      "updated_at": "2026-08-14T22:46:06Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3263"
+    },
+    {
+      "number": 3266,
+      "updated_at": "2026-08-14T19:37:11Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3266"
+    },
+    {
+      "number": 3267,
+      "updated_at": "2026-08-14T19:58:48Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3267"
+    },
+    {
+      "number": 3271,
+      "updated_at": "2026-08-14T21:11:36Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3271"
+    },
+    {
+      "number": 3272,
+      "updated_at": "2026-08-14T22:11:30Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3272"
+    },
+    {
+      "number": 3273,
+      "updated_at": "2026-08-15T02:31:46Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3273"
+    },
+    {
+      "number": 3274,
+      "updated_at": "2026-08-15T04:16:18Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3274"
+    },
+    {
+      "number": 3275,
+      "updated_at": "2026-08-14T22:55:54Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3275"
+    },
+    {
+      "number": 3278,
+      "updated_at": "2026-08-15T00:02:32Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3278"
+    },
+    {
+      "number": 3279,
+      "updated_at": "2026-08-15T00:02:55Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3279"
+    },
+    {
+      "number": 3280,
+      "updated_at": "2026-08-15T00:40:44Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3280"
+    },
+    {
+      "number": 3281,
+      "updated_at": "2026-08-15T01:34:23Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3281"
+    },
+    {
+      "number": 3284,
+      "updated_at": "2026-08-15T02:23:00Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3284"
+    },
+    {
+      "number": 3285,
+      "updated_at": "2026-08-15T02:38:22Z",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/issues/3285"
     }
   ],
   "open_pull_requests": [
@@ -4717,14 +4870,6 @@
       "base_ref": "main",
       "draft": false,
       "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/946"
-    },
-    {
-      "number": 975,
-      "updated_at": "2026-07-29T08:33:56Z",
-      "head_sha": "a83a9e5fbcf0d1060cc0f31b065d4a4d1f2b07cd",
-      "base_ref": "main",
-      "draft": false,
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/975"
     },
     {
       "number": 976,
@@ -4823,14 +4968,6 @@
       "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/1080"
     },
     {
-      "number": 1085,
-      "updated_at": "2026-07-27T21:05:23Z",
-      "head_sha": "2e0926fe4ee993848c0229f608855391de77bcc7",
-      "base_ref": "main",
-      "draft": false,
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/1085"
-    },
-    {
       "number": 1180,
       "updated_at": "2026-07-27T19:47:00Z",
       "head_sha": "1ee7037c46aded5d7281d81f36c40eb65aedc044",
@@ -4919,14 +5056,6 @@
       "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/1500"
     },
     {
-      "number": 1507,
-      "updated_at": "2026-07-28T09:07:33Z",
-      "head_sha": "edf839a6ed0ce1fd8bb7a3d58bd0460be5a371d0",
-      "base_ref": "main",
-      "draft": false,
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/1507"
-    },
-    {
       "number": 1556,
       "updated_at": "2026-08-03T11:41:42Z",
       "head_sha": "1ce0910ab6b4f7f7b27d2d3779d8c84762f405fc",
@@ -4999,14 +5128,6 @@
       "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/1756"
     },
     {
-      "number": 1796,
-      "updated_at": "2026-08-04T18:30:23Z",
-      "head_sha": "1e485a8e5c7f496d1933749fc7154d5ac068a67c",
-      "base_ref": "main",
-      "draft": false,
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/1796"
-    },
-    {
       "number": 1821,
       "updated_at": "2026-07-29T08:28:22Z",
       "head_sha": "4c51ee6b183484cecd586fbb7152318e32daf696",
@@ -5039,14 +5160,6 @@
       "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/1946"
     },
     {
-      "number": 1950,
-      "updated_at": "2026-07-29T08:28:22Z",
-      "head_sha": "2b40a2d5a420bcc5ee2a85021fa7cf75bc1acea7",
-      "base_ref": "main",
-      "draft": false,
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/1950"
-    },
-    {
       "number": 1966,
       "updated_at": "2026-08-03T11:37:30Z",
       "head_sha": "330724a4447586010c991c119322eac6957481e9",
@@ -5072,7 +5185,7 @@
     },
     {
       "number": 2021,
-      "updated_at": "2026-08-13T16:04:02Z",
+      "updated_at": "2026-08-14T07:32:13Z",
       "head_sha": "a8beed6f492952235ed6bed599150188382f08bd",
       "base_ref": "main",
       "draft": false,
@@ -5109,14 +5222,6 @@
       "base_ref": "main",
       "draft": false,
       "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2035"
-    },
-    {
-      "number": 2038,
-      "updated_at": "2026-08-04T19:12:33Z",
-      "head_sha": "47eb9117437c71a5d55edb739d6e86b7b7e1a1bd",
-      "base_ref": "main",
-      "draft": false,
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2038"
     },
     {
       "number": 2039,
@@ -5184,27 +5289,19 @@
     },
     {
       "number": 2101,
-      "updated_at": "2026-08-10T08:51:01Z",
-      "head_sha": "4cc97b2085101a291aca9f888982134bd4255146",
+      "updated_at": "2026-08-14T18:55:51Z",
+      "head_sha": "8746dab159860af013836efa0e17762bdcfb3e9e",
       "base_ref": "main",
       "draft": false,
       "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2101"
     },
     {
       "number": 2105,
-      "updated_at": "2026-08-03T08:53:37Z",
-      "head_sha": "0f433d66b9d410b8cb60bc0990a56bd659953d9a",
+      "updated_at": "2026-08-15T03:21:57Z",
+      "head_sha": "847329d28662ba32abe338a85b87fc36e5b9866d",
       "base_ref": "main",
       "draft": false,
       "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2105"
-    },
-    {
-      "number": 2110,
-      "updated_at": "2026-07-31T20:15:51Z",
-      "head_sha": "6b1c3ad7bac8f223383aa147fc7a97b1a6fdfc36",
-      "base_ref": "main",
-      "draft": false,
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2110"
     },
     {
       "number": 2111,
@@ -5248,7 +5345,7 @@
     },
     {
       "number": 2120,
-      "updated_at": "2026-08-03T09:15:55Z",
+      "updated_at": "2026-08-14T14:30:18Z",
       "head_sha": "3095cd11aef5d1bb14da380a1f1bf506a0aac804",
       "base_ref": "main",
       "draft": false,
@@ -5261,14 +5358,6 @@
       "base_ref": "main",
       "draft": false,
       "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2147"
-    },
-    {
-      "number": 2150,
-      "updated_at": "2026-08-03T12:24:53Z",
-      "head_sha": "ca0023c9663f6e139af03b107c194008c9f47d9f",
-      "base_ref": "main",
-      "draft": false,
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2150"
     },
     {
       "number": 2154,
@@ -5327,14 +5416,6 @@
       "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2192"
     },
     {
-      "number": 2194,
-      "updated_at": "2026-08-04T20:30:11Z",
-      "head_sha": "11d9b52b2045f485d2fac19daf46d01593c905c8",
-      "base_ref": "main",
-      "draft": false,
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2194"
-    },
-    {
       "number": 2200,
       "updated_at": "2026-08-01T20:40:30Z",
       "head_sha": "d9b3157e855a000052dfedcfceda7c0a0d118c14",
@@ -5365,14 +5446,6 @@
       "base_ref": "main",
       "draft": false,
       "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2215"
-    },
-    {
-      "number": 2222,
-      "updated_at": "2026-08-02T07:59:58Z",
-      "head_sha": "58dc6353a0d12be7a7cf0b3b3946c30acb538f2c",
-      "base_ref": "main",
-      "draft": false,
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2222"
     },
     {
       "number": 2229,
@@ -5423,14 +5496,6 @@
       "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2305"
     },
     {
-      "number": 2315,
-      "updated_at": "2026-08-03T11:37:00Z",
-      "head_sha": "0da9136d23079d9d46c6508dbc3d7f7b7c878942",
-      "base_ref": "main",
-      "draft": false,
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2315"
-    },
-    {
       "number": 2316,
       "updated_at": "2026-08-03T06:48:16Z",
       "head_sha": "6fca5994b6c2789cb3d6d84697709a35ee816ae3",
@@ -5440,8 +5505,8 @@
     },
     {
       "number": 2324,
-      "updated_at": "2026-08-03T11:59:43Z",
-      "head_sha": "d47ec8b2c60393fb3f49d86478ca3f12d1f6e83b",
+      "updated_at": "2026-08-14T05:54:43Z",
+      "head_sha": "36bd31ebb318ec77a17dbda6a9588dfb1f0db759",
       "base_ref": "main",
       "draft": true,
       "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2324"
@@ -5453,22 +5518,6 @@
       "base_ref": "main",
       "draft": false,
       "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2342"
-    },
-    {
-      "number": 2343,
-      "updated_at": "2026-08-03T14:29:17Z",
-      "head_sha": "023473611f1352433fba1058a9c0598c0ac682fd",
-      "base_ref": "main",
-      "draft": false,
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2343"
-    },
-    {
-      "number": 2414,
-      "updated_at": "2026-08-13T16:04:03Z",
-      "head_sha": "5a27ae98ddfd98520644d928b29f66d7dcf76fa0",
-      "base_ref": "main",
-      "draft": false,
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2414"
     },
     {
       "number": 2444,
@@ -5503,14 +5552,6 @@
       "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2580"
     },
     {
-      "number": 2596,
-      "updated_at": "2026-08-13T13:03:14Z",
-      "head_sha": "f1c2c7d61f55286faea336220885a5a406965429",
-      "base_ref": "main",
-      "draft": false,
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2596"
-    },
-    {
       "number": 2607,
       "updated_at": "2026-08-05T17:16:43Z",
       "head_sha": "5b4916d51eebe8abab97e7c46522bbcf090f34d7",
@@ -5520,7 +5561,7 @@
     },
     {
       "number": 2632,
-      "updated_at": "2026-08-08T12:59:52Z",
+      "updated_at": "2026-08-14T05:37:42Z",
       "head_sha": "69e7610bd4d6e70a3aadf80d417013581eb9d301",
       "base_ref": "main",
       "draft": false,
@@ -5549,14 +5590,6 @@
       "base_ref": "main",
       "draft": false,
       "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2715"
-    },
-    {
-      "number": 2720,
-      "updated_at": "2026-08-07T20:34:00Z",
-      "head_sha": "b42d52cd48a886601dc3579cc61548c7a1c20c89",
-      "base_ref": "main",
-      "draft": false,
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2720"
     },
     {
       "number": 2721,
@@ -5632,19 +5665,11 @@
     },
     {
       "number": 2807,
-      "updated_at": "2026-08-13T14:54:01Z",
+      "updated_at": "2026-08-14T21:59:09Z",
       "head_sha": "aee358dc4dc81ceae12c11387167578f182fda22",
       "base_ref": "main",
       "draft": false,
       "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2807"
-    },
-    {
-      "number": 2821,
-      "updated_at": "2026-08-08T21:39:50Z",
-      "head_sha": "00759258e2353397840079559029d7d3880ce2de",
-      "base_ref": "main",
-      "draft": false,
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2821"
     },
     {
       "number": 2824,
@@ -5696,7 +5721,7 @@
     },
     {
       "number": 2880,
-      "updated_at": "2026-08-10T18:34:25Z",
+      "updated_at": "2026-08-14T07:36:33Z",
       "head_sha": "e47a50a4e7fbe40f13277e0e74d3856277640ebb",
       "base_ref": "main",
       "draft": false,
@@ -5720,8 +5745,8 @@
     },
     {
       "number": 2899,
-      "updated_at": "2026-08-14T02:38:05Z",
-      "head_sha": "8e63f3f3af956cb3f8a4a4807c45aa2ac45a7646",
+      "updated_at": "2026-08-14T16:50:01Z",
+      "head_sha": "aa14bff55a1eadcfb664ec6b4e8802b943946f78",
       "base_ref": "main",
       "draft": false,
       "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2899"
@@ -5736,8 +5761,8 @@
     },
     {
       "number": 2923,
-      "updated_at": "2026-08-11T22:18:08Z",
-      "head_sha": "ec18b7af5759e6124f9c39e0ec8677cd94ecfce0",
+      "updated_at": "2026-08-14T22:00:34Z",
+      "head_sha": "e75c937d96057b139b98c9cc2001b02f670d2e3d",
       "base_ref": "main",
       "draft": false,
       "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2923"
@@ -5791,14 +5816,6 @@
       "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2942"
     },
     {
-      "number": 2969,
-      "updated_at": "2026-08-11T19:58:43Z",
-      "head_sha": "f30c577120f11f9b49c18c926b8ed322ef753394",
-      "base_ref": "main",
-      "draft": false,
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/2969"
-    },
-    {
       "number": 2983,
       "updated_at": "2026-08-12T19:22:42Z",
       "head_sha": "fd41bb0cc2487e39dd1c2d883679447aa1092153",
@@ -5832,7 +5849,7 @@
     },
     {
       "number": 3028,
-      "updated_at": "2026-08-11T16:22:43Z",
+      "updated_at": "2026-08-14T23:03:11Z",
       "head_sha": "77908f512ea50c175102df9785c12ef09c2b3b21",
       "base_ref": "main",
       "draft": false,
@@ -5856,7 +5873,7 @@
     },
     {
       "number": 3080,
-      "updated_at": "2026-08-12T07:08:30Z",
+      "updated_at": "2026-08-14T18:04:34Z",
       "head_sha": "7544f879434d53b965dcc505a7f6d4a0b32001bd",
       "base_ref": "main",
       "draft": false,
@@ -5869,22 +5886,6 @@
       "base_ref": "main",
       "draft": false,
       "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3084"
-    },
-    {
-      "number": 3107,
-      "updated_at": "2026-08-13T17:14:49Z",
-      "head_sha": "22dc3277f9ac93faea4c192bf3648d311f8e0d52",
-      "base_ref": "main",
-      "draft": false,
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3107"
-    },
-    {
-      "number": 3113,
-      "updated_at": "2026-08-13T21:00:35Z",
-      "head_sha": "625a51264a00174203022453a3e25a52df86121b",
-      "base_ref": "main",
-      "draft": false,
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3113"
     },
     {
       "number": 3122,
@@ -5912,8 +5913,8 @@
     },
     {
       "number": 3173,
-      "updated_at": "2026-08-14T04:38:22Z",
-      "head_sha": "6e3e7da030978c4ba6c0206ad808b54a8c7f7fd3",
+      "updated_at": "2026-08-14T05:52:10Z",
+      "head_sha": "be6e21f65ba91bc15cdf5028739f49b766ae85b8",
       "base_ref": "main",
       "draft": false,
       "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3173"
@@ -5927,39 +5928,89 @@
       "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3196"
     },
     {
-      "number": 3201,
-      "updated_at": "2026-08-14T04:31:23Z",
-      "head_sha": "ee0316f7f87ef13d120f9608708ef94ac4310e9a",
-      "base_ref": "main",
-      "draft": false,
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3201"
-    },
-    {
-      "number": 3210,
-      "updated_at": "2026-08-14T02:01:33Z",
-      "head_sha": "d472802edbb8ee237999a2c9db36e6e3c0bf0d14",
-      "base_ref": "main",
-      "draft": false,
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3210"
-    },
-    {
-      "number": 3216,
-      "updated_at": "2026-08-14T04:11:17Z",
-      "head_sha": "0f8b73ef170d98c8f1ea2e9c48fadb8fb260e86a",
-      "base_ref": "main",
-      "draft": false,
-      "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3216"
-    },
-    {
       "number": 3217,
-      "updated_at": "2026-08-14T04:55:11Z",
+      "updated_at": "2026-08-14T04:56:56Z",
       "head_sha": "81fe3a5a9d784f9db5bc21466fe3deda5936a7d9",
       "base_ref": "main",
       "draft": false,
       "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3217"
+    },
+    {
+      "number": 3221,
+      "updated_at": "2026-08-14T17:00:36Z",
+      "head_sha": "006fad9cfa702dfdde3fdd7c10eae94efa481199",
+      "base_ref": "main",
+      "draft": false,
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3221"
+    },
+    {
+      "number": 3243,
+      "updated_at": "2026-08-14T13:46:41Z",
+      "head_sha": "321aa50ca4585aa407281b3102504689600328e1",
+      "base_ref": "main",
+      "draft": false,
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3243"
+    },
+    {
+      "number": 3268,
+      "updated_at": "2026-08-14T20:33:46Z",
+      "head_sha": "55fc97731bf9a7910690536428ae196876569be8",
+      "base_ref": "main",
+      "draft": false,
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3268"
+    },
+    {
+      "number": 3269,
+      "updated_at": "2026-08-14T20:43:11Z",
+      "head_sha": "e0c1069936c402a7f6069c9f6f61d947977cf611",
+      "base_ref": "main",
+      "draft": false,
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3269"
+    },
+    {
+      "number": 3270,
+      "updated_at": "2026-08-14T20:44:38Z",
+      "head_sha": "2048ee8e6c7a7dcaf5d82ac3cfaf81bf1595c13a",
+      "base_ref": "main",
+      "draft": false,
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3270"
+    },
+    {
+      "number": 3286,
+      "updated_at": "2026-08-15T04:02:57Z",
+      "head_sha": "d498d09e806fa7ed5c7f0bf63a8e47adfd7dc4a7",
+      "base_ref": "main",
+      "draft": false,
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3286"
+    },
+    {
+      "number": 3287,
+      "updated_at": "2026-08-15T04:03:56Z",
+      "head_sha": "37be5dca4d6315a8bf0753d7b191cda95f1eb9a2",
+      "base_ref": "main",
+      "draft": true,
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3287"
+    },
+    {
+      "number": 3288,
+      "updated_at": "2026-08-15T04:12:28Z",
+      "head_sha": "da804a97758b1e723a436840c6d864235b6e96bb",
+      "base_ref": "main",
+      "draft": false,
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/pull/3288"
     }
   ],
   "releases": [
+    {
+      "id": 370643337,
+      "tag": "v2.4.0-rc.8",
+      "name": "v2.4.0-rc.8 — What STATUS advertises, the runtime executes",
+      "draft": false,
+      "prerelease": true,
+      "published_at": "2026-08-14T14:54:29Z",
+      "target": "main",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai/releases/tag/v2.4.0-rc.8"
+    },
     {
       "id": 369371616,
       "tag": "v2.4.0-rc.7",
@@ -8622,6 +8673,10 @@
     }
   ],
   "tags": [
+    {
+      "name": "v2.4.0-rc.8",
+      "sha": "b002e0e7dfd30d7dbf5c3b43cf8be4e0fa7162da"
+    },
     {
       "name": "v2.4.0-rc.7",
       "sha": "72cf613c826fce7f830d00a514d19cab406916ff"
