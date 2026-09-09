@@ -2,6 +2,36 @@
   "schema": "gentle-ai-review.daily-history/v1",
   "snapshots": [
     {
+      "date": "2026-09-09",
+      "observed_at": "2026-09-09T04:30:28Z",
+      "counts": {
+        "open_issues": 658,
+        "open_pull_requests": 241
+      },
+      "change_counts": {
+        "issues": {
+          "new": 27,
+          "updated": 31,
+          "closed_or_no_longer_open": 0
+        },
+        "pull_requests": {
+          "new": 8,
+          "updated": 13,
+          "closed_or_no_longer_open": 0
+        },
+        "releases": {
+          "new": 2,
+          "updated": 0,
+          "closed_or_no_longer_open": 0
+        },
+        "tags": {
+          "new": 2,
+          "updated": 0,
+          "closed_or_no_longer_open": 0
+        }
+      }
+    },
+    {
       "date": "2026-09-08",
       "observed_at": "2026-09-08T04:29:54Z",
       "counts": {
