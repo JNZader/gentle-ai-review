@@ -2,6 +2,36 @@
   "schema": "gentle-ai-review.daily-history/v1",
   "snapshots": [
     {
+      "date": "2026-09-12",
+      "observed_at": "2026-09-12T04:28:33Z",
+      "counts": {
+        "open_issues": 711,
+        "open_pull_requests": 240
+      },
+      "change_counts": {
+        "issues": {
+          "new": 25,
+          "updated": 34,
+          "closed_or_no_longer_open": 4
+        },
+        "pull_requests": {
+          "new": 6,
+          "updated": 14,
+          "closed_or_no_longer_open": 3
+        },
+        "releases": {
+          "new": 0,
+          "updated": 0,
+          "closed_or_no_longer_open": 0
+        },
+        "tags": {
+          "new": 0,
+          "updated": 0,
+          "closed_or_no_longer_open": 0
+        }
+      }
+    },
+    {
       "date": "2026-09-11",
       "observed_at": "2026-09-11T04:30:45Z",
       "counts": {
@@ -896,36 +926,6 @@
         },
         "tags": {
           "new": 1,
-          "updated": 0,
-          "closed_or_no_longer_open": 0
-        }
-      }
-    },
-    {
-      "date": "2026-08-12",
-      "observed_at": "2026-08-12T04:54:49Z",
-      "counts": {
-        "open_issues": 542,
-        "open_pull_requests": 172
-      },
-      "change_counts": {
-        "issues": {
-          "new": 47,
-          "updated": 77,
-          "closed_or_no_longer_open": 34
-        },
-        "pull_requests": {
-          "new": 8,
-          "updated": 12,
-          "closed_or_no_longer_open": 17
-        },
-        "releases": {
-          "new": 2,
-          "updated": 0,
-          "closed_or_no_longer_open": 0
-        },
-        "tags": {
-          "new": 2,
           "updated": 0,
           "closed_or_no_longer_open": 0
         }
