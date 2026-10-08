@@ -1,0 +1,58 @@
+{
+  "schema": "gentle-ai-review.current-state/v1",
+  "project": "Gentleman-Programming/gentle-ai",
+  "independence_notice": "Revisión comunitaria independiente, no oficial y no afiliada al proyecto upstream.",
+  "observations": {
+    "release_utc": "2026-08-10T03:56:19Z",
+    "tracker_utc": "2026-08-10T03:54:26Z"
+  },
+  "release": {
+    "candidate": "v2.4.0-rc.3",
+    "sha": "e659f46be8e69c9bc8835ae1cc826cfd4d1978b6",
+    "verdict": "HOLD",
+    "stable_promotion": "blocked",
+    "release_url": "https://github.com/Gentleman-Programming/gentle-ai/releases/tag/v2.4.0-rc.3",
+    "immutable": false,
+    "repository_release_workflow_run": false,
+    "signed_manifest_present": false,
+    "gates": [
+      {"id": "runtime-rollback", "status": "open", "summary": "El runtime record sigue siendo incompatible con rollback a RC1."},
+      {"id": "compact-rollback", "status": "open", "summary": "El compact state sigue siendo incompatible con rollback a RC1."},
+      {"id": "publication-provenance", "status": "open", "summary": "La publicación queda fuera de release.yml, es mutable y los binarios no prueban su SHA fuente."},
+      {"id": "exact-tag-docs", "status": "open", "summary": "README y quickstart del tag RC3 todavía señalan e instalan RC1."}
+    ],
+    "closed_improvements": {
+      "assets_and_checksums": "Cinco binarios y SHA256SUMS.txt están disponibles; todos los digests verifican.",
+      "windows_exact_sha": "La suite Windows del SHA RC3 está verde; se cerró la deuda del harness ACL."
+    },
+    "binary_metadata": {
+      "all_report_module": "(devel)",
+      "all_vcs_modified": true,
+      "all_missing_vcs_revision": true
+    }
+  },
+  "tracker": {
+    "open_issues": 510,
+    "open_pull_requests": 174,
+    "issue_close_candidates": {
+      "open_count": 22,
+      "open": [541,653,707,727,838,1222,1248,1290,1766,1789,1835,1951,1955,2031,2091,2234,2325,2349,2420,2500,2608,2619],
+      "already_closed": [2348],
+      "execution_rule": "Verificación JIT por elemento; nunca cierre masivo."
+    },
+    "pull_request_queues": {
+      "close_now": [2038,2111,2222,2357,2580,2728],
+      "guarded_close": [688,765,1059,1070,1939,2041,2077,2342,2596,2812],
+      "do_not_merge": [708,731,740,1500,1946,2112,2343,2529,2724,2862,2868,2883],
+      "named_survivors": [1999,2056,2201,2363,2601,2807],
+      "state_or_head_drift_observed": false
+    },
+    "fail_open_priorities": [2870,2891]
+  },
+  "scope_boundary": {
+    "validated_sha": "e659f46be8e69c9bc8835ae1cc826cfd4d1978b6",
+    "current_main_at_tracker_refresh": "564b0dfced31a4bba6e901c248db0c7da1475da0",
+    "main_advanced_after_validation": true,
+    "statement": "La evidencia de release es exact-tag RC3; los conteos son una foto posterior del tracker. No se afirma que el main posterior haya sido revisado integralmente."
+  }
+}
